@@ -4,6 +4,7 @@
     color: white;
     display: flex;
     justify-content: right;
+    
 }
 
 
@@ -18,10 +19,15 @@
     justify-content: space-evenly;    
 }
 
+
 .nav-links a {
     color: white;
     text-decoration: none;
     font-size: 2em;
+    filter:brightness(.5);
+}
+.nav-links a:hover {
+    filter: brightness(1);
 }
 
 .title {
