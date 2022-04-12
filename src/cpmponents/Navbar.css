@@ -1,22 +1,33 @@
 .navbar {
-    background: linear-gradient(rgb(0, 0, 0), grey);
-    height: 80px;
-    box-shadow: grey 0px 0px 20px;
+    background: linear-gradient(rgb(0, 0, 0), grey,black);
+    height: 100px;
     color: white;
+    display: flex;
+    justify-content: right;
 }
+
 
 .nav-links {
     color: white;
     display: flex;
+    width: 75%;
     position: relative;
-    top: 20px;
+    /* top: -50px; */
     align-items: center;
     flex-direction: row;
     justify-content: space-evenly;    
 }
 
-.nav-links a{
+.nav-links a {
     color: white;
     text-decoration: none;
     font-size: 2em;
+}
+
+.title {
+    display: flex;
+    position: relative;
+    top: 95px;
+    align-items: baseline;
+    justify-content: left;
 }
