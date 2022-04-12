@@ -2,11 +2,21 @@
     background: linear-gradient(rgb(0, 0, 0), grey);
     height: 80px;
     box-shadow: grey 0px 0px 20px;
+    color: white;
 }
 
 .nav-links {
+    color: white;
     display: flex;
-    flex-direction: row;
+    position: relative;
+    top: 20px;
     align-items: center;
-    justify-content: space-around;
+    flex-direction: row;
+    justify-content: space-evenly;    
+}
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
 }
