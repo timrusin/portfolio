@@ -1,5 +1,8 @@
-.page-container {
+.project-page-container {
+    margin-top: 100px;
+    padding: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: white;
 }

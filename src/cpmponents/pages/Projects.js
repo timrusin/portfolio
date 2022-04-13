@@ -4,7 +4,8 @@ import './Project.css'
 
 const Projects = () => {
   return (
-    <div className="page-container">
+    <div className="project-page-container">
+      <h1>Projects</h1>
       <Terminal />
     </div>
   );

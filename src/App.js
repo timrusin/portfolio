@@ -7,7 +7,7 @@ import Navbar from './cpmponents/Navbar'
 const App = () => {
   return (
     <>
-   <Navbar />
+   <Navbar className="nav" />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/projects" element={<Projects />} />

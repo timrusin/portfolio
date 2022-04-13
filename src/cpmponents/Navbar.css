@@ -3,12 +3,12 @@
 }
 
 .navbar {
-    /* background: linear-gradient(rgb(0, 0, 0), rgb(38, 34, 114),black); */
+    background: rgb(245, 244, 244);
     height: 100px;
     color: white;
     display: flex;
     justify-content: right;
-    
+    border-bottom: black 1px solid;
 }
 
 
@@ -17,18 +17,17 @@
     display: flex;
     width: 75%;
     position: relative;
-    /* top: -50px; */
     align-items: center;
     flex-direction: row;
     justify-content: right;    
-    margin-right: 100px;
+    margin-right: 80px;
 }
 
 
 .nav-links a {
-    color: white;
+    color: rgb(168, 168, 168);
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 1em;
     filter:brightness(.5);
     margin-right: 40px;
 }
@@ -42,11 +41,21 @@
     top: 90px;
     align-items: baseline;
     justify-content: left;
-    margin-left: 100px;
+    margin-left: 80px;
+}
+
+.title a {
+    text-decoration: none;
+    color: black;
+}
+
+.title a:hover {
+    filter: opacity(.5);
 }
 
 .title h1 {
     margin-right: 10px;
+
 }
 
 .title h4 {
