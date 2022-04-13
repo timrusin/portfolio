@@ -1,5 +1,9 @@
+.container {
+    margin: -90px 0px;
+}
+
 .navbar {
-    background: linear-gradient(rgb(0, 0, 0), rgb(38, 34, 114),black);
+    /* background: linear-gradient(rgb(0, 0, 0), rgb(38, 34, 114),black); */
     height: 100px;
     color: white;
     display: flex;
@@ -16,15 +20,17 @@
     /* top: -50px; */
     align-items: center;
     flex-direction: row;
-    justify-content: space-evenly;    
+    justify-content: right;    
+    margin-right: 100px;
 }
 
 
 .nav-links a {
     color: white;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 1.5em;
     filter:brightness(.5);
+    margin-right: 40px;
 }
 .nav-links a:hover {
     filter: brightness(1);
@@ -33,7 +39,16 @@
 .title {
     display: flex;
     position: relative;
-    top: 95px;
+    top: 90px;
     align-items: baseline;
     justify-content: left;
+    margin-left: 100px;
+}
+
+.title h1 {
+    margin-right: 10px;
+}
+
+.title h4 {
+    font-family: cursive;
 }
