@@ -68,3 +68,45 @@
     position: sticky;
     top: 0;
 }
+
+.menu-icon {
+    display: none;
+    color: black;
+}
+
+@media screen and (max-width: 1050px) {
+.menu-icon {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-100%, 60%);
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 100%;
+    height: 300px;
+    position: relative;
+    top: 130px;
+    left: -100%;
+    opacity: 1;
+    transition: all 0.5s ease;
+  }
+
+
+  .nav-links {
+    text-align: left;
+    padding: 5px;
+    width: 100%;
+  }
+
+  .active {
+    color: rgb(132, 81, 81);
+  }
+
+}

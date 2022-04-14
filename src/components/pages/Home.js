@@ -4,7 +4,6 @@ import Projects from './Projects'
 import './Home.css'
 import Contact from './Contact'
 import About from './About'
-import Terminal from '../Terminal'
 
 const Home = () => {
   return (
