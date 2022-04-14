@@ -74,7 +74,7 @@
     color: black;
 }
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 830px) {
 .menu-icon {
     display: block;
     position: absolute;
@@ -85,7 +85,7 @@
     cursor: pointer;
   }
 
-  .navbar {
+  /* .navbar-links {
     display: flex;
     flex-direction: column;
     justify-content: left;
@@ -96,17 +96,17 @@
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
-  }
+  } */
 
 
-  .nav-links {
+  /* .nav-links {
     text-align: left;
     padding: 5px;
     width: 100%;
-  }
+  } */
 
-  .active {
+  /* .active {
     color: rgb(132, 81, 81);
-  }
+  } */
 
 }
