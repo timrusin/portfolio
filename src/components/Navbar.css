@@ -1,5 +1,5 @@
 .container {
-    margin: -90px 0px;
+    /* margin: -90px 0px; */
 }
 
 .navbar {
@@ -9,6 +9,7 @@
     display: flex;
     justify-content: right;
     border-bottom: black 1px solid;
+    box-shadow: black 0px 0px 20px;
 }
 
 
@@ -20,7 +21,7 @@
     align-items: center;
     flex-direction: row;
     justify-content: right;    
-    margin-right: 80px;
+    margin-right: 60px;
 }
 
 
@@ -35,29 +36,35 @@
     filter: brightness(1);
 }
 
-.title {
+#title {
     display: flex;
-    position: relative;
-    top: 90px;
+    position: absolute;
+    color: black;
+    top: 10px;
     align-items: baseline;
     justify-content: left;
-    margin-left: 80px;
+    margin-left: 60px;
 }
 
-.title a {
+#title a {
     text-decoration: none;
     color: black;
 }
 
-.title a:hover {
+#title a:hover {
     filter: opacity(.5);
 }
 
-.title h1 {
+#title h1 {
     margin-right: 10px;
 
 }
 
-.title h4 {
+#title h4 {
     font-family: cursive;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
 }

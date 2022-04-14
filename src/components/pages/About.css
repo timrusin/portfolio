@@ -1,6 +1,5 @@
-.project-page-container {
-    margin-top: 100px;
-    padding: 50px;
+.about-page-container {
+    padding: 200px 0px;
     display: flex;
     flex-direction: column;
     align-items: center;

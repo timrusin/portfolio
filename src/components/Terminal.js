@@ -24,7 +24,7 @@ const Terminal = () => {
            
           </div>
         </div>
-        <a>~/Documents/coding/portfolio - <span>main</span></a>
+        <p>~/Documents/coding/portfolio - <span>main</span></p>
       </div>
     </div>
   );
