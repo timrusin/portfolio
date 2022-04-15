@@ -4,7 +4,7 @@
 
 .navbar {
     background: rgb(245, 244, 244);
-    height: 100px;
+    height: 80px;
     color: white;
     display: flex;
     justify-content: right;
@@ -12,13 +12,22 @@
     box-shadow: black 0px 0px 20px;
 }
 
+.nav-menu {
+    display: flex;
+    justify-content: right;
+    top: 20px;
+    width: 100%;
+    right: -30px;
+    /* height: 40px; */
+    position: absolute;
+  }
+
 
 .nav-links {
     color: white;
     display: flex;
     width: 75%;
     position: relative;
-    align-items: center;
     flex-direction: row;
     justify-content: right;    
     margin-right: 60px;
@@ -40,10 +49,10 @@
     display: flex;
     position: absolute;
     color: black;
-    top: 10px;
+    top: 0px;
     align-items: baseline;
     justify-content: left;
-    margin-left: 60px;
+    margin-left: 40px;
 }
 
 #title a {
@@ -57,7 +66,6 @@
 
 #title h1 {
     margin-right: 10px;
-
 }
 
 #title h4 {
@@ -75,38 +83,54 @@
 }
 
 @media screen and (max-width: 830px) {
+
 .menu-icon {
     display: block;
     position: absolute;
-    top: 10px;
-    right: 0;
+    top: 0px;
+    right: 10px;
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;
   }
 
-  .navbar.active {
-    flex-direction: column;
-    justify-content: left;
-    height: 200px;
-    padding-top: 50px;
-    left: 0;
-    opacity: .85;
-    transition: all 0.5s ease;
-    z-index: 1;
+  .nav-menu {
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: left; */
+    /* width: 100%; */
+    height: 145px;
+    position: absolute;
+    top: -200px;
+    left: 0px;
+    /* transition: all 2s ease; */
+
   }
 
+  .nav-menu.active {
+    background: rgb(245, 244, 244);
+    top: 59px;
+    left: 0px;
+    border-bottom: black 1px solid;
+    /* transition: all 2s ease; */
+    box-shadow: rgba(0, 0, 0, 0.368) 0px 8px 5px;
 
-  .nav-links a{
+  }
+
+  .nav-links {
       display: flex;
       flex-direction: column;
-    text-align: left;
-    padding: 5px;
-    width: 100%;
+      left: -20px;
+      top: 10px;
+      font-size: 25px;
   }
 
-  /* .active {
-    color: rgb(132, 81, 81);
-  } */
+  .nav-item {
+      padding-bottom: 3px;
+  }
 
+
+  #title {
+    margin-left: 10px;
+}
 }
