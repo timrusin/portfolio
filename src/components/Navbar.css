@@ -15,7 +15,7 @@
 .nav-menu {
     display: flex;
     justify-content: right;
-    top: 20px;
+    top: 30px;
     width: 100%;
     right: -30px;
     /* height: 40px; */
@@ -52,7 +52,7 @@
     top: 0px;
     align-items: baseline;
     justify-content: left;
-    margin-left: 40px;
+    margin-left: 60px;
 }
 
 #title a {
