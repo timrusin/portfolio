@@ -1,10 +1,11 @@
 import React from 'react'
 import './Home.css'
+import Terminal from '../Terminal'
 
 const Home = () => {
   return (
     <div className='home-page-container'>
-      <h1>Home</h1>
+      <h1>HOME</h1>
     </div>
   )
 }

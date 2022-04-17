@@ -10,14 +10,15 @@ const Navbar = () => {
   return (
     <div className="sticky">
       <div id="title">
-        <Link 
-        activeClass='active'
-        to="home"
-        spy={true}
-        smooth={true}
-        offset={0}
-        duration={500}
-        onClick={closeMenu}>
+        <Link
+          activeClass="active"
+          to="home"
+          spy={true}
+          smooth={true}
+          offset={0}
+          duration={500}
+          onClick={closeMenu}
+        >
           <h1>Tim Rusin</h1>
         </Link>
         <h4>software engineer</h4>
@@ -28,53 +29,55 @@ const Navbar = () => {
         </div>
         <div className={click ? "nav-menu active" : "nav-menu"}>
           <nav className="nav-links">
-
-            <Link 
-            className={click ? "hide" : "nav-item"}
-            activeClass='active'
-            to="home"
-            spy={true}
-            smooth={true}
-            offset={0}
-            duration={500}
-            onClick={closeMenu}
+            <Link
+              className={click ? "hide" : "nav-item"}
+              activeClass="active"
+              to="home"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+              onClick={closeMenu}
             >
               Home
             </Link>
 
-            <Link 
-            className="nav-item"
-            activeClass='active'
-            to="about"
-            spy={true}
-            smooth={true}
-            offset={0}
-            duration={500}
-            onClick={closeMenu}>
+            <Link
+              className="nav-item"
+              activeClass="active"
+              to="about"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+              onClick={closeMenu}
+            >
               About
             </Link>
 
-            <Link 
-            className="nav-item"
-            activeClass='active'
-            to="projects"
-            spy={true}
-            smooth={true}
-            offset={0}
-            duration={500}
-            onClick={closeMenu}>
+            <Link
+              className="nav-item"
+              activeClass="active"
+              to="projects"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+              onClick={closeMenu}
+            >
               Projects
             </Link>
 
-            <Link 
-            className="nav-item" 
-            activeClass='active'
-            to="contact"
-            spy={true}
-            smooth={true}
-            offset={0}
-            duration={500}
-            onClick={closeMenu}>
+            <Link
+              className="nav-item"
+              activeClass="active"
+              to="contact"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+              onClick={closeMenu}
+            >
               Contact
             </Link>
           </nav>

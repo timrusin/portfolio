@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
 .navbar {
     background: rgb(245, 244, 244);
     height: 80px;
@@ -54,6 +56,7 @@
 #title a {
     text-decoration: none;
     color: black;
+    font-family: 'Noto Serif', serif;
 }
 
 #title a:hover {
@@ -84,7 +87,7 @@
 .menu-icon {
     display: block;
     position: absolute;
-    top: 0px;
+    top: 2px;
     right: 10px;
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
@@ -124,7 +127,7 @@
 
 
   #title {
-     margin-left: 10px;
+     margin-left: 15px;
 }
   .active {
      display: flex;
