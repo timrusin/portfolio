@@ -8,7 +8,7 @@ const Navbar = () => {
   const closeMenu = () => setClick (false)
 
   return (
-    <div className="container sticky">
+    <div className="sticky">
       <div id="title">
         <Link 
         activeClass='active'
@@ -30,7 +30,7 @@ const Navbar = () => {
           <nav className="nav-links">
 
             <Link 
-            className="nav-item" 
+            className={click ? "hide" : "nav-item"}
             activeClass='active'
             to="home"
             spy={true}
