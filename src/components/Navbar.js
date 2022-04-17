@@ -15,7 +15,7 @@ const Navbar = () => {
         to="home"
         spy={true}
         smooth={true}
-        offset={-100}
+        offset={0}
         duration={500}
         onClick={closeMenu}>
           <h1>Tim Rusin</h1>
@@ -35,7 +35,7 @@ const Navbar = () => {
             to="home"
             spy={true}
             smooth={true}
-            offset={-100}
+            offset={0}
             duration={500}
             onClick={closeMenu}
             >
