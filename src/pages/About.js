@@ -49,7 +49,7 @@ const About = () => {
         </div>
         <div className={audio ? 'show' : 'hide'}>
           <p>
-            audio talk here
+            audio talk
           </p>
           <p>
             some more audio talk here

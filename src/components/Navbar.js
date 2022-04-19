@@ -21,7 +21,7 @@ const Navbar = () => {
         >
           <h1>Tim Rusin</h1>
         </Link>
-        <h4>software, audio engineer, educator</h4>
+        <h4 id="sub-title">audio & software engineer, educator</h4>
       </div>
       <div className={click ? "navbar active" : "navbar"}>
         <div className="menu-icon" onClick={handleClick}>
