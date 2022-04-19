@@ -65,8 +65,8 @@ const About = () => {
           </p>
         </div>
       </div>
-      <img className={audio ? "about-image" : "hide"} src={AudioPhoto} alt="Tim Rusin audio" />
-      <img className={educator ? "about-image" : "hide"} src={EduImage} alt="Tim Rusin teaching"/>
+      <img className={audio ? "about-image show" : "hide"} src={AudioPhoto} alt="Tim Rusin audio" />
+      <img className={educator ? "about-image show" : "hide"} src={EduImage} alt="Tim Rusin teaching"/>
     </div>
   );
 }
