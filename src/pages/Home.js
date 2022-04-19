@@ -1,11 +1,11 @@
 import React from 'react'
 import './Home.css'
-import Terminal from '../Terminal'
 
 const Home = () => {
   return (
     <div className='home-page-container'>
-      <h1>HOME</h1>
+      <p>Hello, my name is</p>
+      <h1>Tim Rusin</h1>
     </div>
   )
 }

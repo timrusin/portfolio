@@ -1,8 +1,8 @@
 import React from 'react'
-import Home from './components/pages/Home'
-import Projects from './components/pages/Projects'
-import Contact from './components/pages/Contact'
-import About from './components/pages/About'
+import Home from './pages/Home'
+import Projects from './pages/Projects'
+import Contact from './pages/Contact'
+import About from './pages/About'
 import Navbar from './components/Navbar'
 
 
