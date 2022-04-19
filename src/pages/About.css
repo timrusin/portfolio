@@ -27,6 +27,7 @@
     box-shadow: 0px 0px 10px white;
     border-radius: 20px;
 }
+
 .bio-descriptions{
     width: 100%;
     font-size: 1vw;
@@ -46,11 +47,15 @@
     filter: brightness(.5);
  }
 
-.bio-btn-active {
+ .bio-btn:hover{
+     filter:brightness(.75); 
+ }
+
+ .bio-btn-active {
     filter: brightness(1);
 }
 
-.show {
+ .show {
     display: block;
 }
 

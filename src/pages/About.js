@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import "./About.css"
-import BioPhoto from '../images/Tim _Bio_edited.jpg'
+import AudioPhoto from '../images/Tim _Bio_edited.jpg'
+import EduImage from '../images/CRC.JPG'
 
 
 const About = () => {
@@ -64,7 +65,8 @@ const About = () => {
           </p>
         </div>
       </div>
-      <img className="about-image" src={BioPhoto} alt="Tim Rusin" />
+      <img className={audio ? "about-image" : "hide"} src={AudioPhoto} alt="Tim Rusin audio" />
+      <img className={educator ? "about-image" : "hide"} src={EduImage} alt="Tim Rusin teaching"/>
     </div>
   );
 }
