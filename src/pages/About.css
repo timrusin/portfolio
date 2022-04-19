@@ -4,7 +4,8 @@
     align-items: top;
     justify-content: space-evenly;
     color: white;
-    background: rgb(0, 0, 0);
+    background: rgb(36, 36, 36);
+    border-bottom:rgb(48, 48, 48) 2px solid;
 }
 
 .about-page-container h1 {

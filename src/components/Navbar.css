@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 
 .navbar {
-    background: rgb(245, 244, 244);
+    /* background: rgb(245, 244, 244); */
+    background: rgb(36, 36, 36);
+    /* border-bottom:rgb(48, 48, 48) 2px solid; */
     height: 80px;
     color: white;
     display: flex;
     justify-content: right;
-    border-bottom: black 1px solid;
-    box-shadow: black 0px 0px 20px;
+    border-bottom: rgb(255, 255, 255) 4px solid;
+    /* box-shadow: black 0px 0px 20px; */
 }
 
 .nav-menu {
@@ -33,9 +35,10 @@
 
 
 .nav-links a {
-    color: rgb(168, 168, 168);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 1em;
+    font-weight: bold;
     filter:brightness(.5);
     margin-right: 40px;
 }
@@ -46,7 +49,7 @@
 #title {
     display: flex;
     position: absolute;
-    color: black;
+    color: rgb(255, 255, 255);
     top: 0px;
     align-items: baseline;
     justify-content: left;
@@ -55,7 +58,7 @@
 
 #title a {
     text-decoration: none;
-    color: black;
+    color: #ffffff;
     font-family: 'Noto Serif', serif;
 }
 
