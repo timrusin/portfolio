@@ -94,6 +94,10 @@
     cursor: pointer;
   }
 
+  #title h4 {
+    font-size: .75em;
+}
+
   .nav-menu {
     height: 110px;
     position: absolute;
