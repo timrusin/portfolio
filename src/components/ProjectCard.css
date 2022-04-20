@@ -1,0 +1,33 @@
+.p-card-bg {
+    background: #000;
+    padding: 0 20px;
+    border-radius: 20px;
+    margin: 0 1%;
+    box-shadow: 0px 0px 10px white;
+    /* height: 80%; */
+    width: 100%;
+}
+
+.p-card-title {
+    color: rgb(187, 187, 187);
+    text-align: center;
+    margin-top: 5%;
+    font-size: 1.25vw;
+    font-family: 'Noto Serif', serif;
+}
+
+.p-card-description {
+    text-align: center;
+    font-size: .9vw;
+    margin: 2% 0;
+}
+
+.p-card-image {
+    width: 100%;
+    padding-top: 5%;    
+}
+
+.p-card-stack {
+    font-size: .8vw;
+    text-align: center;
+}
