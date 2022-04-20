@@ -63,11 +63,11 @@
 
  .show {
     display: block;
-    animation: fadeIn 3s;
-    -webkit-animation: fadeIn 3s;
-    -moz-animation: fadeIn 3s;
-    -o-animation: fadeIn 3s;
-    -ms-animation: fadeIn 3s;
+    animation: fadeIn 1s;
+    -webkit-animation: fadeIn 1s;
+    -moz-animation: fadeIn 1s;
+    -o-animation: fadeIn 1s;
+    -ms-animation: fadeIn 1s;
   }
   @keyframes fadeIn {
     0% {opacity:0;}
@@ -92,7 +92,7 @@
 
 .hide {
     display: none;
-    transition: all 3s ease;
+    transition: all 1s ease;
 }
 
 @media screen and (max-width:830px){
@@ -102,6 +102,7 @@
 
     .btn-container {
         width:auto;
+        text-align: center;
     }
 
     .about-page-container h1 {
