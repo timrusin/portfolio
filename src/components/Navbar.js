@@ -71,6 +71,19 @@ const Navbar = () => {
             <Link
               className="nav-item"
               activeClass="active"
+              to="credits"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={500}
+              onClick={closeMenu}
+            >
+              Credits
+            </Link>
+
+            <Link
+              className="nav-item"
+              activeClass="active"
               to="contact"
               spy={true}
               smooth={true}

@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./About.css"
 import AudioPhoto from '../images/Tim _Bio_edited.jpg'
-import EduImage from '../images/CRC.JPG'
+import EduImage from '../images/live_sound_class.jpg'
 
 
 const About = () => {
@@ -30,16 +30,16 @@ const About = () => {
       <div className="bio-descriptions">
         <div className="btn-container">
           <button
-            onClick={selectAudio}
-            className={audio ? "bio-btn-active bio-btn" : "bio-btn"}
-          >
-            AUDIO
-          </button>
-          <button
             onClick={selectSoftware}
             className={software ? "bio-btn-active bio-btn" : "bio-btn"}
           >
             SOFTWARE
+          </button>
+          <button
+            onClick={selectAudio}
+            className={audio ? "bio-btn-active bio-btn" : "bio-btn"}
+          >
+            AUDIO
           </button>
           <button
             onClick={selectEducator}
@@ -47,6 +47,14 @@ const About = () => {
           >
             EDUCATOR
           </button>
+        </div>
+        <div className={software ? 'show' : 'hide'}>
+          <p>
+            software talk here
+          </p>
+          <p>
+            some more software talk here
+          </p>
         </div>
         <div className={audio ? 'show' : 'hide'}>
           <p>
@@ -56,12 +64,12 @@ const About = () => {
             some more audio talk here
           </p>
         </div>
-        <div className={software ? 'show' : 'hide'}>
+        <div className={educator ? 'show' : 'hide'}>
           <p>
-            software talk here
+            educator talk
           </p>
           <p>
-            some more software talk here
+            some more educator talk here
           </p>
         </div>
       </div>

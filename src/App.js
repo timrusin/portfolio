@@ -4,6 +4,7 @@ import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import About from './pages/About'
 import Navbar from './components/Navbar'
+import Credits from './pages/Credits'
 
 
 const App = () => {
@@ -18,6 +19,9 @@ const App = () => {
    </div>
    <div id="projects">
      <Projects />
+   </div>
+   <div id="credits">
+     <Credits />
    </div>
    <div id="contact">
      <Contact />
