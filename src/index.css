@@ -15,9 +15,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.page-container {
-  position: relative;
-  top: 80px;
-  margin: 0 60px;
-}

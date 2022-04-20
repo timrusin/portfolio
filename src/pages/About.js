@@ -48,33 +48,66 @@ const About = () => {
             EDUCATOR
           </button>
         </div>
-        <div className={software ? 'show' : 'hide'}>
+        <div className={software ? "show" : "hide"}>
+          <p>software talk here</p>
+          <p>some more software talk here</p>
+        </div>
+        <div className={audio ? "show" : "hide"}>
           <p>
-            software talk here
+            I began my audio caareer back in the early 2000's recording my own
+            music as well as other bands and musician friends. I started my own
+            mobile recording business while attending Columbia College Chicago
+            for Recording Arts which then led me to JBTV Studios with Jerry
+            Bryant where I really cut my teeth in the industry.
           </p>
           <p>
-            some more software talk here
+            I spent eight years recording, mixing nad mastering nearly 300 live
+            performances that also got me three{" "}
+            <span className="emphasize">Emmy Nominations.</span> I also spent a
+            good amount of time gigging around town doing live sound.
+          </p>
+          <p>
+            This all then led me to a full-time faculty position at Flashpoint
+            College in Chicago teaching recording arts. (check out the{" "}
+            <span className="bio-secret-btn" onClick={selectEducator}>
+              EDUCATOR
+            </span>{" "}
+            tab for more detials). The school unfortuantely did not make it
+            through the covid-19 pandemic and closed down in May of 2022, which
+            has led me to my sofware developmnt path.
           </p>
         </div>
-        <div className={audio ? 'show' : 'hide'}>
+        <div className={educator ? "show" : "hide"}>
           <p>
-            audio talk
+            As menitoned in the AUDIO section, I had a ten-year run at
+            Flashpoint College Chicago teaching everyting from basic audio
+            concepts, fundamentals of acoustics, studio recording, live sound
+            production, and sound for film.
           </p>
           <p>
-            some more audio talk here
-          </p>
-        </div>
-        <div className={educator ? 'show' : 'hide'}>
-          <p>
-            educator talk
+            I was actually tasked to devlop the live sound progoram within the
+            Recording Arts department when I was brought on and continued to
+            manage it all for nearly eight years.
           </p>
           <p>
-            some more educator talk here
+            I loved teaching and thought I was in it for the long haul, but the
+            universe makes interesting decisions for us sometimes. I would love
+            to find myself in some sort of mentoring or teaching role again, but
+            for now I have become a student myself as I diver each day into the
+            rich world of software development.
           </p>
         </div>
       </div>
-      <img className={audio ? "about-image show" : "hide"} src={AudioPhoto} alt="Tim Rusin audio" />
-      <img className={educator ? "about-image show" : "hide"} src={EduImage} alt="Tim Rusin teaching"/>
+      <img
+        className={audio ? "about-image show" : "hide"}
+        src={AudioPhoto}
+        alt="Tim Rusin audio"
+      />
+      <img
+        className={educator ? "about-image show" : "hide"}
+        src={EduImage}
+        alt="Tim Rusin teaching"
+      />
     </div>
   );
 }
