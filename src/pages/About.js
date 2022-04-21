@@ -54,7 +54,7 @@ const About = () => {
         </div>
         <div className={audio ? "show" : "hide"}>
           <p>
-            I began my audio caareer back in the early 2000's recording my own
+            I began my audio career back in the early 2000's recording my own
             music as well as other bands and musician friends. I started my own
             mobile recording business while attending Columbia College Chicago
             for Recording Arts which then led me to JBTV Studios with Jerry
