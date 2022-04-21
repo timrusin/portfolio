@@ -11,7 +11,7 @@ export const ProjectData = [
 
     {
         title: "Star Wars for Dummies",
-        description: "A single page appliaction utilizing the 'SWAPI' Star Wars API",
+        description: "A single page application utilizing the 'SWAPI' Star Wars API",
         image: "https://github.com/timrusin/StarWarsForDummies/raw/main/images/mobile%20closed.jpg",
         stack: "React.js, Node.js, API",
         git: "https://github.com/timrusin/StarWarsForDummies",
