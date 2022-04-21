@@ -82,7 +82,9 @@ const About = () => {
             As menitoned in the AUDIO section, I had a ten-year run at
             Flashpoint College Chicago teaching everyting from basic audio
             concepts, fundamentals of acoustics, studio recording, live sound
-            production, and sound for film.
+            production, and sound for film. I was also teaching portfolio and
+            career development courses by the end of my time at the school as
+            well.
           </p>
           <p>
             I was actually tasked to devlop the live sound progoram within the
