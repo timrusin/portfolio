@@ -5,7 +5,7 @@
     padding: 20px 60px;
     display: flex;
     flex-direction: row;
-    align-items:top;
+    /* align-items:center; */
     background: rgb(36, 36, 36);
     border-bottom:rgb(48, 48, 48) 2px solid;
 }
