@@ -41,7 +41,7 @@ export const ProjectData = [
     },
 
     {
-        title: "Children Learning Game",
+        title: "Children's Learning Game",
         description: "A children's learning game originaly created for my daughter Selena",
         image: "https://github.com/timrusin/portfolio/blob/main/src/images/project_img/selenabus.png?raw=true",
         alt: "Children Learning Game",

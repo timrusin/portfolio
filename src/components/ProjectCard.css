@@ -13,13 +13,13 @@
     color: rgb(187, 187, 187);
     text-align: center;
     margin-top: 5%;
-    font-size: 1.25vw;
+    font-size: 1.35vw;
     font-family: 'Noto Serif', serif;
 }
 
 .p-card-description {
     text-align: center;
-    font-size: .9vw;
+    font-size: .8vw;
     margin: 2% 0;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .p-card-stack {
-    font-size: .8vw;
+    font-size: .75vw;
     color: rgb(187, 187, 187);
     text-align: center;
 }
@@ -39,7 +39,28 @@
     text-decoration: none;
 }
 
-.p-card-bg ul {
-    text-align: left;
-    font-size: 1vw;
+
+@media screen and (max-width:830px){
+
+    .p-card-bg {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .p-card-title {
+        margin-top: 5%;
+        font-size: 4.25vw;
+        font-family: 'Noto Serif', serif;
+    }
+    
+    .p-card-description {
+        text-align: center;
+        font-size: 2.75vw;
+        margin: 2% 0;
+    }
+    .p-card-image {
+        width: 100%;
+        padding-top: 5%;    
+    }
+
 }
