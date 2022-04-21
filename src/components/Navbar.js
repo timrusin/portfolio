@@ -3,7 +3,7 @@ import "./Navbar.css"
 import { Link } from 'react-scroll'
 
 const Navbar = () => {
-  const [click, setClick] = useState(false);
+  const [click, setClick] = useState(false)
   const handleClick = () => setClick (!click)
   const closeMenu = () => setClick (false)
 

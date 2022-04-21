@@ -9,7 +9,7 @@ const Projects = () => {
       <h1 className='projects-title'>software and web development projects:</h1>
     <div className="project-page-container">
       {Data.map(item => {
-        return <ProjectCard 
+        return <ProjectCard key={item.title}
         {...item}
         />
       })}
