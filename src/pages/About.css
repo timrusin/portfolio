@@ -15,8 +15,6 @@
     font-style: italic;
 }
 
-
-
 .bio-btn {
     background: none;
     margin: 5%;
@@ -26,6 +24,7 @@
     border: none;
     filter: brightness(.5);
     cursor: pointer;
+    transition: filter 300ms
 }
 
 .bio-btn:hover{
@@ -60,6 +59,23 @@
     font-weight: bold;
 }
 
+.about-icons-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.about-icons-container a {
+    color: grey;
+    transition: color 300ms
+}
+.about-icons-container a:hover {
+    color: rgb(255, 255, 255);
+}
+
+.about-logos {
+    margin: 0 50px;
+}
 
  .show {
     display: block;

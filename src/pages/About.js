@@ -2,6 +2,10 @@ import { useState } from 'react'
 import "./About.css"
 import AudioPhoto from '../images/Tim _Bio_edited.jpg'
 import EduImage from '../images/live_sound_class.jpg'
+import { FaGithub } from 'react-icons/fa'
+import { FaLinkedin } from 'react-icons/fa'
+import { FaSoundcloud } from 'react-icons/fa'
+import { FaFacebook } from 'react-icons/fa'
 
 
 const About = () => {
@@ -98,6 +102,28 @@ const About = () => {
             for now I have become a student myself as I diver each day into the
             rich world of software development.
           </p>
+        </div>
+        <div className="about-icons-container">
+          <a href="https://github.com/timrusin" target="new">
+            <div className="about-logos">
+              <FaGithub size={25} />
+            </div>
+          </a>
+          <a href="https://soundcloud.com/tjblender" target="new">
+            <div className="about-logos">
+              <FaSoundcloud size={25} />
+            </div>
+          </a>
+          <a href="https://www.linkedin.com/in/timrusin/" target="new">
+            <div className="about-logos">
+              <FaLinkedin size={25} />
+            </div>
+          </a>
+          <a href="https://www.facebook.com/rusinaudio" target="new">
+            <div className="about-logos">
+              <FaFacebook size={25} />
+            </div>
+          </a>
         </div>
       </div>
       <img

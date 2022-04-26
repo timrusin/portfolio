@@ -1,29 +1,53 @@
 .modal-container {
     height: auto;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     animation-name: fadeIn; 
     animation-duration: 1.2s;
-
 }
 
 .modal-description {
     text-align: left;
-    font-size: 1vw;
+    font-size: .8vw;
     line-height: 1.15;
     margin: 2% 0;
 }
 
-.github-logo {
-    width: 50%;
+.modal-links-container {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    padding-top: 5px;
 }
+
+.link-titles {
+    margin-left: 10px;
+    font-size: .85vw;
+    color: red;
+}
+
+.link-titles:hover {
+    color: rgb(180, 180, 180);
+}
+
 
 
 @media screen and (max-width:830px){
     .modal-description {
         text-align: center;
-        font-size: 4vw;
+        font-size: 3vw;
         line-height: 1.15;
         margin: 2% 0;
+    }
+    .modal-links-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 5px;
+    }
+    .link-titles {
+        margin-left: 10px;
+        font-size: 3vw;
+        color: red;
     }
 
 }

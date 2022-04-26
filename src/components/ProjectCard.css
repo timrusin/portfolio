@@ -16,7 +16,7 @@
     color: rgb(187, 187, 187);
     text-align: center;
     margin-top: 5%;
-    font-size: 1vw;
+    font-size: 1.25vw;
     font-family: 'Noto Serif', serif;
 }
 
@@ -45,6 +45,8 @@
 
     .p-card-bg {
         width: 100%;
+        flex-direction: row;
+        flex-wrap: wrap;
         margin: 10px 0;
     }
 
@@ -69,12 +71,6 @@
     .p-card-image {
         width: 80%;
         padding-top: 5%;    
-    }
-
-    .p-card-bg:hover{
-        /* filter: brightness(.5); */
-        width: 100%;
-        cursor: pointer;
     }
 
 }
