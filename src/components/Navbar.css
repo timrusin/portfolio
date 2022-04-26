@@ -54,7 +54,7 @@
 #sub-title {
     position: absolute;
     top: 40px;
-    width: 500px;
+    width: 400px;
     margin-top: 5px;
 }
 
@@ -88,7 +88,7 @@
 }
 
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 965px) {
 .navbar {
     height: 80px;
 }

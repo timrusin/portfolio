@@ -12,12 +12,12 @@ const Modal = (props) => {
       <div className="modal-links-container">
         <div className="github-logo">
           <a href={props.git} target="new">
-            <FaGithub />
+            <FaGithub size={25} />
             <span className="link-titles">source code</span>
           </a>
         </div>
         <a href={props.link} target="new">
-          <MdOutlineHttp />
+          <MdOutlineHttp size={25}/>
           <span className='link-titles'> deployed site</span>
         </a>
       </div>
