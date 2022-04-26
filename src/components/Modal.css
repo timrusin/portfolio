@@ -1,0 +1,28 @@
+.modal-container {
+    height: 200px;
+    animation-name: fadeIn; 
+    animation-duration: 1.2s;
+
+}
+
+.modal-description {
+    text-align: left;
+    font-size: 1vw;
+    line-height: 1.15;
+    margin: 2% 0;
+}
+
+.github-logo {
+    width: 50%;
+}
+
+
+@media screen and (max-width:830px){
+    .modal-description {
+        text-align: center;
+        font-size: 4vw;
+        line-height: 1.15;
+        margin: 2% 0;
+    }
+
+}

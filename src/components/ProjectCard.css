@@ -25,12 +25,6 @@
     font-family: 'Noto Serif', serif;
 }
 
-.p-card-description {
-    text-align: center;
-    font-size: .8vw;
-    margin: 2% 0;
-}
-
 .p-card-image {
     width: 100%;
     padding-top: 5%;    
@@ -47,9 +41,8 @@
     text-decoration: none;
 }
 
-#modal {
-    top: 40%;
-    width: 400px;
+.modal-animation {
+    transition: 2s;
 }
 
 
@@ -81,6 +74,12 @@
     .p-card-image {
         width: 80%;
         padding-top: 5%;    
+    }
+
+    .p-card-bg:hover{
+        /* filter: brightness(.5); */
+        width: 100%;
+        cursor: pointer;
     }
 
 }
