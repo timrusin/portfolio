@@ -47,13 +47,9 @@
     text-decoration: none;
 }
 
-.project-modal{
-    background: rgb(83, 83, 83);
+#modal {
+    top: 40%;
     width: 400px;
-    height: 400px;
-    position: absolute;
-    border: rgb(255, 255, 255) 2px solid;
-    /* top: 30px; */
 }
 
 
