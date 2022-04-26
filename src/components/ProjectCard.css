@@ -11,11 +11,6 @@
 
 }
 
-.p-card-bg:hover{
-    /* filter: brightness(.5); */
-    width: 125%;
-    cursor: pointer;
-}
 
 .p-card-title {
     color: rgb(187, 187, 187);

@@ -1,5 +1,6 @@
 .modal-container {
-    height: 200px;
+    height: auto;
+    margin-bottom: 50px;
     animation-name: fadeIn; 
     animation-duration: 1.2s;
 

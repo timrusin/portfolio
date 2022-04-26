@@ -5,9 +5,11 @@ import './ProjectCard.css'
 
 const ProjectCard = (props) => {
 const [modal, setModal] = useState (false)
+const onMouseLeave = () => setModal(false)
+const onMouseEnter = () => setModal(true)
 
   return (
-    <div className="p-card-bg" onClick={() => setModal(!modal)}>
+    <div className="p-card-bg" onMouseLeave={onMouseLeave} onMouseEnter={onMouseEnter}>
       <div className="p-card-title">{props.title}</div>
       <div className='modal-animation'>{modal && <Modal {...props} />}</div>
       <div className="p-card-stack">Tech Stack: {props.stack}</div>
