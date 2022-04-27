@@ -1,5 +1,7 @@
 .home-page-container {
-    background: rgb(79, 79, 79);
+    padding: 200px 0;
+    text-align: center;
+    background: rgb(36, 36, 36);
     border-bottom:rgb(48, 48, 48) 2px solid;
 }
 
