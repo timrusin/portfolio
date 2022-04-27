@@ -3,7 +3,8 @@
     border-bottom:rgb(48, 48, 48) 2px solid;
 }
 
-.home-video {
+#home-video {
     width: 100%;
-    opacity: .75;
+    height: 100%;
+    opacity: .25;
 }

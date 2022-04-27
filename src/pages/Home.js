@@ -1,12 +1,12 @@
 import React from 'react'
 import './Home.css'
-import homeVideo from '../images/IMG_5417.mp4'
+import homeVideo from '../images/IMG_5417.MOV'
 
 const Home = () => {
   return (
     <div className='home-page-container'>
-      <video className="home-video" autoPlay loop muted>
-        <source src={homeVideo} type='video/mp4'/>
+      <video autoplay preload="auto" loop muted playsinline id="home-video">
+        <source src={homeVideo} type='video/MOV'/>
       </video>
     </div>
   )
