@@ -2,6 +2,7 @@ import { useState } from 'react'
 import "./About.css"
 import AudioPhoto from '../images/Tim _Bio_edited.jpg'
 import EduImage from '../images/live_sound_class.jpg'
+import SoftwareImage from '../images/coding_placeholder.png'
 import { FaGithub } from 'react-icons/fa'
 import { FaLinkedin } from 'react-icons/fa'
 import { FaSoundcloud } from 'react-icons/fa'
@@ -53,8 +54,21 @@ const About = () => {
           </button>
         </div>
         <div className={software ? "show" : "hide"}>
-          <p>software talk here</p>
-          <p>some more software talk here</p>
+          <p>
+            At the end of 2021 I decided it was time to make a shift to a new career
+            in software and web development. I attended General Assembly's Software
+            Emmersive Bootcamp and completed 420 contact hours of instruction in
+            a matter of 3 months. I learned the ground work of HTML, CSS, and
+            Javascript as well as some popular frameworks like Angular and
+            React, heavy emphasis on React.
+          </p>
+          <p>
+            We also got into some back-end programming including python,
+            realtional and non-relational databases and frameworks. I completed
+            a handful of projects in the class, learned a ton, and am continuing
+            my own self-driven eudcation into the world of software and web
+            development on a daily basis.{" "}
+          </p>
         </div>
         <div className={audio ? "show" : "hide"}>
           <p>
@@ -134,6 +148,11 @@ const About = () => {
       <img
         className={educator ? "about-image show" : "hide"}
         src={EduImage}
+        alt="Tim Rusin teaching"
+      />
+      <img
+        className={software ? "about-image show" : "hide"}
+        src={SoftwareImage}
         alt="Tim Rusin teaching"
       />
     </div>

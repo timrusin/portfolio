@@ -1,6 +1,5 @@
 import React from 'react'
 import './Home.css'
-import homeVideo from '../images/IMG_5417.mp4'
 
 const Home = () => {
   return (
