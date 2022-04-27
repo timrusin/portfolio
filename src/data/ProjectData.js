@@ -42,7 +42,7 @@ export const ProjectData = [
     },
     
     {
-        title: "Cstar Photography",
+        title: "Cstar311 Photography",
         description: "This is my first project that I have started on (aside from the website you're on right now) once I graduated from school. This will be a landing site for my father in law's professional photography. This is when I really started feeling more comfortable and confident in React.js.",
         image: "https://github.com/timrusin/portfolio/blob/main/src/images/project_img/cstar.png?raw=true",
         alt: "Cstar311 Photography site",
