@@ -137,8 +137,9 @@
     }
 
     .bio-descriptions{
-        width: 80%;
+        width: 90%;
         align-self: center;
+        text-align: center;
         margin: 0;
         font-size: 1em;
     }
