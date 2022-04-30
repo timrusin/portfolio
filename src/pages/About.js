@@ -94,10 +94,6 @@ const About = () => {
             through the covid-19 pandemic and closed down in May of 2022, which
             has led me to my software development path.
           </p>
-          <p>
-            I still take on album and live work when and where I can these days
-            as audio will always be a part of who I am.
-          </p>
         </div>
         <div className={educator ? "show" : "hide"}>
           <p>

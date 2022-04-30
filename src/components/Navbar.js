@@ -29,7 +29,7 @@ const Navbar = () => {
         </div>
         <div className={click ? "nav-menu active" : "nav-menu"}>
           <nav className="nav-links">
-            <Link
+            {/* <Link
               className={click ? "hide" : "nav-item"}
               activeClass="active"
               to="home"
@@ -40,7 +40,7 @@ const Navbar = () => {
               onClick={closeMenu}
             >
               Home
-            </Link>
+            </Link> */}
 
             <Link
               className="nav-item"
