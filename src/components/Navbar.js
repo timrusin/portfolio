@@ -12,7 +12,7 @@ const Navbar = () => {
       <div id="title">
         <Link
           activeClass="active"
-          to="home"
+          to="about"
           spy={true}
           smooth={true}
           offset={-100}
@@ -21,7 +21,7 @@ const Navbar = () => {
         >
           <h1>Tim Rusin</h1>
         </Link>
-        <h4 id="sub-title">audio & software engineer, educator</h4>
+        <h4 id="sub-title">software & audio engineer, educator</h4>
       </div>
       <div className={click ? "navbar active" : "navbar"}>
         <div className="menu-icon" onClick={handleClick}>

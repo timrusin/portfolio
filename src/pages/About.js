@@ -10,8 +10,8 @@ import { FaFacebook } from 'react-icons/fa'
 
 
 const About = () => {
-  const [audio, setAudio] = useState(true)
-  const [software, setSoftware] = useState(false)
+  const [audio, setAudio] = useState(false)
+  const [software, setSoftware] = useState(true)
   const [educator, setEducator] = useState(false)
 
   const selectAudio = () => {
@@ -55,18 +55,18 @@ const About = () => {
         </div>
         <div className={software ? "show" : "hide"}>
           <p>
-            At the end of 2021 I decided it was time to make a shift to a new career
-            in software and web development. I attended General Assembly's Software
-            Emmersive Bootcamp and completed 420 contact hours of instruction in
-            a matter of 3 months. I learned the ground work of HTML, CSS, and
-            Javascript as well as some popular frameworks like Angular and
-            React, heavy emphasis on React.
+            At the end of 2021 I decided it was time to make a shift to a new
+            career in software and web development. I attended General
+            Assembly's Software Immersive Bootcamp and completed 420 contact
+            hours of instruction in a matter of 3 months. I learned the ground
+            work of HTML, CSS, and Javascript as well as some popular frameworks
+            like Angular and React, heavy emphasis on React.
           </p>
           <p>
             We also got into some back-end programming including python,
-            realtional and non-relational databases and frameworks. I completed
+            relational and non-relational databases and frameworks. I completed
             a handful of projects in the class, learned a ton, and am continuing
-            my own self-driven eudcation into the world of software and web
+            my own self-driven education into the world of software and web
             development on a daily basis.{" "}
           </p>
         </div>
@@ -79,7 +79,7 @@ const About = () => {
             Bryant where I really cut my teeth in the industry.
           </p>
           <p>
-            I spent eight years recording, mixing nad mastering nearly 300 live
+            I spent eight years recording, mixing and mastering nearly 300 live
             performances that also got me three{" "}
             <span className="emphasize">Emmy Nominations.</span> I also spent a
             good amount of time gigging around town doing live sound.
@@ -90,22 +90,26 @@ const About = () => {
             <span className="bio-secret-btn" onClick={selectEducator}>
               EDUCATOR
             </span>{" "}
-            tab for more detials). The school unfortuantely did not make it
+            tab for more details). The school unfortunately did not make it
             through the covid-19 pandemic and closed down in May of 2022, which
-            has led me to my sofware developmnt path.
+            has led me to my software development path.
+          </p>
+          <p>
+            I still take on album and live work when and where I can these days
+            as audio will always be a part of who I am.
           </p>
         </div>
         <div className={educator ? "show" : "hide"}>
           <p>
-            As menitoned in the AUDIO section, I had a ten-year run at
-            Flashpoint College Chicago teaching everyting from basic audio
+            As mentioned in the AUDIO section, I had a ten-year run at
+            Flashpoint College Chicago teaching everything from basic audio
             concepts, fundamentals of acoustics, studio recording, live sound
             production, and sound for film. I was also teaching portfolio and
             career development courses by the end of my time at the school as
             well.
           </p>
           <p>
-            I was actually tasked to devlop the live sound progoram within the
+            I was actually tasked to develop the live sound program within the
             Recording Arts department when I was brought on and continued to
             manage it all for nearly eight years.
           </p>

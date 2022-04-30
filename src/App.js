@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './pages/Home'
+// import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import About from './pages/About'
@@ -11,9 +11,9 @@ const App = () => {
   return (
     <main>
    <Navbar className="nav" />
-   <div id="home">
+   {/* <div id="home">
      <Home />
-   </div>
+   </div> */}
    <div id="about">
      <About />
    </div>
