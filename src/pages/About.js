@@ -57,7 +57,7 @@ const About = () => {
           <p>
             At the end of 2021 I decided it was time to make a shift to a new
             career in software and web development. I attended General
-            Assembly's Software Immersive Bootcamp and completed 420 contact
+            Assembly's Software Immersive Bootcamp and completed 420+ contact
             hours of instruction in a matter of 3 months. I learned the ground
             work of HTML, CSS, and Javascript as well as some popular frameworks
             like Angular and React, heavy emphasis on React.
