@@ -1,12 +1,11 @@
 import React from 'react'
 import './Home.css'
+import test from '../images/test.mp4'
 
 const Home = () => {
   return (
-    <div className='home-page-container'>
-     <h1>Hero</h1>
-    </div>
-  )
+    <video src={test} autoPlay playsInline loop muted className="home-video"/>
+  );
 }
 
 export default Home

@@ -1,19 +1,18 @@
 import React from 'react'
-// import Home from './pages/Home'
+import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import About from './pages/About'
 import Navbar from './components/Navbar'
 import Credits from './pages/Credits'
 
-
 const App = () => {
   return (
     <main>
    <Navbar className="nav" />
-   {/* <div id="home">
+   <div id="home">
      <Home />
-   </div> */}
+   </div>
    <div id="about">
      <About />
    </div>
@@ -26,7 +25,6 @@ const App = () => {
    <div id="contact">
      <Contact />
    </div>
-      
     </main>
   );
 }
