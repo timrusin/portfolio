@@ -1,11 +1,19 @@
 .home-page-container {
-    padding: 200px 0;
     text-align: center;
     background: rgb(0, 0, 0);
-    border-bottom:rgb(48, 48, 48) 2px solid;
 }
 
 .home-video {
+    display: block;
+    margin-top: -25%;
     width: 100%;
+    opacity: .75;
     height: 100%;
+    border-bottom:rgb(129, 129, 129) 4px solid;
+}
+
+@media screen and (max-width: 965px) {
+    .home-video {
+        margin-top: -10%;
+    }
 }

@@ -12,7 +12,7 @@ const Navbar = () => {
       <div id="title">
         <Link
           activeClass="active"
-          to="about"
+          to="home"
           spy={true}
           smooth={true}
           offset={-100}
@@ -29,18 +29,18 @@ const Navbar = () => {
         </div>
         <div className={click ? "nav-menu active" : "nav-menu"}>
           <nav className="nav-links">
-            {/* <Link
+            <Link
               className={click ? "hide" : "nav-item"}
               activeClass="active"
               to="home"
               spy={true}
               smooth={true}
-              offset={0}
+              offset={-80}
               duration={500}
               onClick={closeMenu}
             >
               Home
-            </Link> */}
+            </Link>
 
             <Link
               className="nav-item"
