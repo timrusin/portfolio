@@ -1,13 +1,13 @@
 .home-page-container {
     text-align: center;
-    background: rgb(0, 0, 0);
+    background: rgb(32, 32, 32);
 }
 
 .home-video {
     display: block;
     margin-top: -25%;
     width: 100%;
-    opacity: .75;
+    opacity: .5;
     height: 100%;
     border-bottom:rgb(129, 129, 129) 4px solid;
 }
