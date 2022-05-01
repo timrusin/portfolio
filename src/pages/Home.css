@@ -9,8 +9,9 @@
     width: 100%;
     opacity: .5;
     height: 100%;
-    border-bottom:rgb(48, 48, 48) 2px solid;
+    /* border-bottom:rgb(48, 48, 48) 2px solid; */
     overflow: hidden;
+    box-shadow: 0px 0px 10px white;
 }
 
 @media screen and (max-width: 965px) {
