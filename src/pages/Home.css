@@ -10,6 +10,7 @@
     opacity: .5;
     height: 100%;
     border-bottom:rgb(129, 129, 129) 4px solid;
+    overflow: hidden;
 }
 
 @media screen and (max-width: 965px) {
