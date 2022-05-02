@@ -90,7 +90,7 @@
 
 @media screen and (max-width: 965px) {
 .navbar {
-    height: 80px;
+    height: 75px;
 }
 
 .menu-icon {
@@ -110,7 +110,7 @@
     position: absolute;
     top: 40px;
     width: 300px;
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
   #title h4 {
