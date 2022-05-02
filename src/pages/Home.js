@@ -1,12 +1,12 @@
 import React from 'react'
 import './Home.css'
-import test from '../images/test.MOV'
+import home_bg_dev from '../images/home_videobg_dev.mp4'
 
 const Home = () => {
   return (
     <div className="home-page-container">
       <video
-        src={test}
+        src={home_bg_dev}
         autoPlay
         playsInline
         loop
