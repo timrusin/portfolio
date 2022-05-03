@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import home_bg_dev from '../images/home_videobg_dev.mp4'
+import home_bg_dev from '../images/home_videobg_dev_med.mp4'
 
 const Home = () => {
   return (
