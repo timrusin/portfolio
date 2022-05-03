@@ -1,6 +1,7 @@
 .home-page-container {
     text-align: center;
     background: rgb(32, 32, 32);
+    height: auto;
 }
 
 .home-video {
