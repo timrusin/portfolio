@@ -1,4 +1,4 @@
-export const CreditsData = [
+export const AlbumCreditsData = [
 
     {
         image: "https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F1398601--F9981EF1-BFA8-4305-87E11B1D002DA5E8--0--16464058--OBGBluewTexture.png?fm=jpg&q=75&w=800&s=7e112397137aa575257a1a95b0dba3f3",
@@ -543,4 +543,4 @@ export const CreditsData = [
 
 ]
 
-export default CreditsData
+export default AlbumCreditsData
