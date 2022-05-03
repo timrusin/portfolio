@@ -30,6 +30,7 @@ const About = ({setVideo}) => {
     setEducator(true)
     setAudio(false)
     setSoftware(false)
+    setVideo('educator')
   }
 
   return (

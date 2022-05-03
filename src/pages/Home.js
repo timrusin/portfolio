@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import home_bg_dev from '../images/home_videobg_dev_med.mp4'
-import audio_bg_dev from '../images/home_videobg_audio.mp4'
+import audio_bg_dev from '../images/home_videobg_audio2.mp4'
 
 const Home = ( {video} ) => {
 
@@ -21,7 +21,7 @@ const Home = ( {video} ) => {
         playsInline
         loop
         muted
-        className={video=== 'audio' ? 'home-video' : 'hide'}
+        className={video === 'audio' || video === 'educator' ? 'home-video' : 'hide'}
       />
     </div>
 
