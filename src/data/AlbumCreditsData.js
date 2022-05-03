@@ -1,6 +1,7 @@
 export const AlbumCreditsData = [
 
     {
+        id: 59,
         image: "https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F1398601--F9981EF1-BFA8-4305-87E11B1D002DA5E8--0--16464058--OBGBluewTexture.png?fm=jpg&q=75&w=800&s=7e112397137aa575257a1a95b0dba3f3",
         alt: "On Borken Glass album art",
         artist: "Overcoast",
@@ -10,6 +11,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/20yrviqcoHeOqqhcvLsKS1?si=qn-CLYbZQ8WJKbYmvBoIrQ",
     },
     {
+        id: 58,
         image: "https://i1.sndcdn.com/artworks-DfZLa9UPZzqx-0-t500x500.jpg",
         alt: "Громко · Крепко · Честно album art",
         artist: "Garlic Kings",
@@ -19,6 +21,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/1DGBl3BkiG7LSmDJYeTMGD?si=tzvTCbVTR5K50JX7fSyWcw",
     },
     {
+        id: 57,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
         artist: "Eric Brumley",
@@ -28,6 +31,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/track/5zvODiCxXPiu5f0VTsFRvc?si=9fec14ab79d443b2",
     },
     {
+        id: 56,
         image: "https://xthoughtswordsactionx.files.wordpress.com/2022/01/a3702509748_10.jpg?w=900",
         alt: "Corrupt Politicians Will Never Set You Free album art",
         artist: "The Decayed",
@@ -37,6 +41,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/767ACn3yKBcf5dAjVJ3AEt?si=O9AQ6yb5SKykEq9Op-_d2w",
     },
     {
+        id: 55,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
         artist: "Eric Brumley",
@@ -46,6 +51,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/ericbrumleymusic/light-the-sky",
     },
     {
+        id: 54,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
         artist: "Eric Brumley",
@@ -55,6 +61,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/ericbrumleymusic/in-my-dreams",
     },
     {
+        id: 53,
         image: "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/e7/6a/f5/e76af588-50ea-0a87-fc2c-6c31d0145e49/artwork.jpg/500x500bb.webp",
         alt: "More Than Thought album art",
         artist: "Overcoast",
@@ -64,6 +71,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/us/album/more-than-thought-ep/1540392302",
     },
     {
+        id: 52,
         image: null,
         alt: null,
         artist: "Empire State Express",
@@ -73,6 +81,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 51,
         image: "https://f4.bcbits.com/img/a4112631146_16.jpg",
         alt: "Joyride album art",
         artist: "Ballroom Boxer",
@@ -82,6 +91,7 @@ export const AlbumCreditsData = [
         link: "https://ballroomboxer.bandcamp.com/album/joyride",
     },
     {
+        id: 50,
         image: "https://yt3.ggpht.com/7vl-Jk_E2O_BZzcornKMpQOZ0sSGvIfB97uETiTxnVpRElBc1Cmpv5qDIos-tPkT8VS39raf=s88-c-k-c0x00ffffff-no-rj",
         alt: "Modern Day Dam Malone artwork",
         artist: "Last False Hope",
@@ -91,6 +101,7 @@ export const AlbumCreditsData = [
         link: "https://www.youtube.com/watch?v=7CgPNQQDuTg",
     },
     {
+        id: 49,
         image: null,
         alt: null,
         artist: "Kaiju",
@@ -100,6 +111,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 48,
         image: null,
         alt: null,
         artist: "Kaiju",
@@ -109,6 +121,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 47,
         image: null,
         alt: null,
         artist: "Dual Transient",
@@ -118,6 +131,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 46,
         image: "https://f4.bcbits.com/img/a3724424865_16.jpg",
         alt: "Where We Are album art",
         artist: "6'10",
@@ -127,6 +141,7 @@ export const AlbumCreditsData = [
         link: "https://610music1.bandcamp.com/album/where-we-are-ep-out-now-2019",
     },
     {
+        id: 45,
         image: null,
         alt: null,
         artist: "Chicago Folks Operatta",
@@ -136,6 +151,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 44,
         image: "https://f4.bcbits.com/img/a0421375242_16.jpg",
         alt: "A Little Wild album art",
         artist: "Ballroom Boxer",
@@ -145,6 +161,7 @@ export const AlbumCreditsData = [
         link: "https://ballroomboxer.bandcamp.com/album/a-little-wild",
     },
     {
+        id: 43,
         image: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/42263760_407143713151899_1512448814613528576_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jIbyZyf0zMQAX_FamQi&_nc_ht=scontent-ort2-1.xx&oh=00_AT9znPsq1frLZarvz33RVTeN48yklmzr8ib3hrchOrZoRg&oe=62958A58",
         alt: "That's Enough album art",
         artist: "That's Enough",
@@ -154,6 +171,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/thatsenough?fbclid=IwAR124K6Y8Xxhsj97mcylhfP3S_RYh5i27LAlOP8G_R0EaTqZUby-_mqayl8",
     },
     {
+        id: 42,
         image: null,
         alt: null,
         artist: "PSycHE",
@@ -163,6 +181,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 41,
         image: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ea/14/8b/ea148ba6-1d0f-8218-86c6-a539405761dd/5054526387409_1.jpg/500x500bb.webp",
         alt: "Ya'aburnee album art",
         artist: "Father Figures",
@@ -172,6 +191,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/jp/album/yaaburnee-ep/1199900886?l=en",
     },
     {
+        id: 40,
         image: "https://f4.bcbits.com/img/a2283018676_16.jpg",
         alt: "Crwon Makers Don'e Wear Crowns album art",
         artist: "A Random Drive",
@@ -181,6 +201,7 @@ export const AlbumCreditsData = [
         link: "https://arandomdrive.bandcamp.com/releases",
     },
     {
+        id: 39,
         image: "https://i.discogs.com/CkOr-c0Rkirc12yttJhFdZhvvpwS4kaLiguUNIBMpI4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MjUyLTE1MTQ1Mzc1/MzUtODQxNy5qcGVn.jpeg",
         alt: "Про любовь art",
         artist: "Garlic Kings",
@@ -190,6 +211,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/4flP80kLbtpbfnguXvyx9F?si=QlelRzFoRz2Ma2ZBG7Dnmw",
     },
     {
+        id: 38,
         image: "https://d10j3mvrs1suex.cloudfront.net/u/156801/c0bba82b5119dbe25b59f0c4f06342248eee1a19/square/album-cover.jpg/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
         alt: "Odd Boat album art",
         artist: "Flatfoot 56",
@@ -199,6 +221,7 @@ export const AlbumCreditsData = [
         link: "https://flatfoot56.com/odd-boat",
     },
     {
+        id: 37,
         image: "https://i.discogs.com/W1lxdIkTgaSc5s2fDZfD12Zo0a5TZKsrbAvNGn1Rs_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MjQyLTE1MTQ1Mzcz/MTEtMTI5MC5qcGVn.jpeg",
         alt: "Старые псы album art",
         artist: "Garlic Kings",
@@ -208,6 +231,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/0W6XdcC4CEQB2zC9vx8GcB?si=mAm08W6oQhSfdZ8ufqW-eQ",
     },
     {
+        id: 36,
         image: "https://f4.bcbits.com/img/a1141192570_16.jpg",
         alt: "Tides album art",
         artist: "Ballroom Boxer",
@@ -217,6 +241,7 @@ export const AlbumCreditsData = [
         link: "https://youtu.be/fq74PKi41j4",
     },
     {
+        id: 35,
         image: "https://f4.bcbits.com/img/a1141192570_16.jpg",
         alt: "Tides album art",
         artist: "Ballroom Boxer",
@@ -226,6 +251,7 @@ export const AlbumCreditsData = [
         link: "https://ballroomboxer.bandcamp.com/album/tides-2",
     },
     {
+        id: 34,
         image: null,
         alt: null,
         artist: "Chicago Folks Operatta",
@@ -235,6 +261,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 33,
         image: "https://f4.bcbits.com/img/a0050833159_16.jpg",
         alt: "Questions and Problems album art",
         artist: "In Exile",
@@ -244,6 +271,7 @@ export const AlbumCreditsData = [
         link: "https://inexilechicago.bandcamp.com/",
     },
     {
+        id: 32,
         image: "https://f4.bcbits.com/img/a1874401416_16.jpg",
         alt: "Humble Begginnings of a Roving Soul album art",
         artist: "6'10",
@@ -253,6 +281,7 @@ export const AlbumCreditsData = [
         link: "https://610music1.bandcamp.com/album/the-humble-beginnings-of-a-rovin-soul-full-length-album-out-now-2014",
     },
     {
+        id: 31,
         image: "https://f4.bcbits.com/img/a1874401416_16.jpg",
         alt: "Humble Begginnings of a Roving Soul album art",
         artist: "6'10",
@@ -262,6 +291,7 @@ export const AlbumCreditsData = [
         link: "https://610music1.bandcamp.com/album/the-humble-beginnings-of-a-rovin-soul-full-length-album-out-now-2014",
     },
     {
+        id: 30,
         image: "https://d10j3mvrs1suex.cloudfront.net/u/156801/f83de579be5a008391043763d8f2de14357499ee/large/flatfoot-56-toil.jpg/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
         alt: "Toil album art",
         artist: "Flatfoot 56",
@@ -271,6 +301,7 @@ export const AlbumCreditsData = [
         link: "https://flatfoot56.com/toil",
     },
     {
+        id: 29,
         image: null,
         alt: null,
         artist: "Man Bird Belly",
@@ -280,6 +311,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/manbirdbelly/albums",
     },
     {
+        id: 28,
         image: "https://m.media-amazon.com/images/I/716HShTXDHL._SS500_.jpg",
         alt: "Siamese Dream album art",
         artist: "The Smashing Pumpkins",
@@ -289,6 +321,7 @@ export const AlbumCreditsData = [
         link: "https://www.amazon.com/Siamese-Dream-Deluxe-Smashing-Pumpkins/dp/B0064Z8WQO",
     },
     {
+        id: 27,
         image: null,
         alt: null,
         artist: "The Frantic",
@@ -298,6 +331,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 26,
         image: "https://is3-ssl.mzstatic.com/image/thumb/Music/2d/60/4d/mzi.jwbpxyoe.jpg/500x500bb.webp",
         alt: "Looking Glass album art",
         artist: "Mia LeBlon",
@@ -307,6 +341,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/us/album/looking-glass-ep/430624437",
     },
     {
+        id: 25,
         image: "https://images-na.ssl-images-amazon.com/images/I/61Tyy7kTM4L._SY355_.jpg",
         alt: "Cast Your Shadow album art",
         artist: "Lights Over Bridgeport",
@@ -316,6 +351,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/0x9D8AemWvR8U9RSfud8x7?si=-LoK9ZEbTaeEU4ZhSzyvnA",
     },
     {
+        id: 24,
         image: "https://f4.bcbits.com/img/a3725785406_16.jpg",
         alt: "Breaking album art",
         artist: "Mike Reeb",
@@ -325,6 +361,7 @@ export const AlbumCreditsData = [
         link: "https://mikereeb.bandcamp.com/track/breaking",
     },
     {
+        id: 23,
         image: "https://is2-ssl.mzstatic.com/image/thumb/Music/8f/1f/79/mzi.oalhyoav.jpg/500x500bb.webp",
         alt: "Fornicate the Gutted album art",
         artist: "Bound and Gagged",
@@ -334,6 +371,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/us/album/fornicate-the-gutted/325662139",
     },
     {
+        id: 22,
         image: "https://e-cdn-images.dzcdn.net/images/cover/892e3236406e0a4ec88af48a4639ff4f/264x264-000000-80-0-0.jpg",
         alt: "Engines album art",
         artist: "Lights Over Bridgeport",
@@ -343,6 +381,7 @@ export const AlbumCreditsData = [
         link: "https://www.deezer.com/sr/album/834007",
     },
     {
+        id: 21,
         image: null,
         alt: null,
         artist: "Meqqa",
@@ -352,6 +391,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 20,
         image: null,
         alt: null,
         artist: "Surround Sound",
@@ -361,6 +401,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 19,
         image: "https://aentcdn.azureedge.net/graphics/items/sdimages/b/500/4/7/6/5/1325674.jpg",
         alt: "You're Cordially Invited album art",
         artist: "The Red Tie Affair",
@@ -370,6 +411,7 @@ export const AlbumCreditsData = [
         link: "https://daddykool.com/UPC/877319002304",
     },
     {
+        id: 18,
         image: "https://is3-ssl.mzstatic.com/image/thumb/Music/1a/ac/92/mzi.fhmsbpkj.tif/300x300bb.webp",
         alt: "Stare album art",
         artist: "The Digital Kill",
@@ -379,6 +421,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/us/artist/the-digital-kill/164358922",
     },
     {
+        id: 17,
         image: null,
         alt: null,
         artist: "Lights Over Bridgeport",
@@ -388,6 +431,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 16,
         image: null,
         alt: null,
         artist: "Failed Resistance",
@@ -397,6 +441,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 15,
         image: "https://f4.bcbits.com/img/a2189643527_16.jpg",
         alt: "The Colour of Gore album art",
         artist: "Reprobation",
@@ -406,6 +451,7 @@ export const AlbumCreditsData = [
         link: "https://reprobation.bandcamp.com/album/the-colour-of-gore",
     },
     {
+        id: 14,
         image: null,
         alt: null,
         artist: "Gazing at Laces",
@@ -415,6 +461,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 13,
         image: null,
         alt: null,
         artist: "Dials to Departure",
@@ -424,6 +471,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 12,
         image: null,
         alt: null,
         artist: "Jason Eickmeir",
@@ -433,6 +481,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 11,
         image: null,
         alt: null,
         artist: "The Dead Racoons",
@@ -442,6 +491,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 10,
         image: null,
         alt: null,
         artist: "Eric Harms",
@@ -451,6 +501,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 9,
         image: null,
         alt: null,
         artist: "Panel 18",
@@ -460,6 +511,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 8,
         image: null,
         alt: null,
         artist: "Inhuman",
@@ -469,6 +521,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 1,
         image: null,
         alt: null,
         artist: "Drowning in Flame",
@@ -478,6 +531,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 7,
         image: null,
         alt: null,
         artist: "Faultline",
@@ -487,6 +541,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 6,
         image: null,
         alt: null,
         artist: "Not a Chance",
@@ -496,6 +551,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 5,
         image: null,
         alt: null,
         artist: "What Happened to Judy??",
@@ -505,6 +561,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 4,
         image: null,
         alt: null,
         artist: "So Far...",
@@ -514,6 +571,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 3,
         image: null,
         alt: null,
         artist: "Lights Over Bridgeport",
@@ -523,6 +581,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
+        id: 2,
         image: "https://m.media-amazon.com/images/I/51qQMqk6lfL._SX466_.jpg",
         alt: "Justamere Road album art",
         artist: "Stereo South",
@@ -532,6 +591,7 @@ export const AlbumCreditsData = [
         link: "https://www.allmusic.com/song/those-who-never-sleep-mt0027880352",
     },
     {
+        id: 1,
         image: null,
         alt: null,
         artist: "Bite The Hand",
