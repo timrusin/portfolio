@@ -6,10 +6,14 @@ import AlbumCredits from '../data/AlbumCreditsData'
 
 const Credits = () => {
   return (
-    <div className="credits-page-container">
-        <AlbumCredCard credits = {AlbumCredits}/>
-    </div>
-  )
+    <>
+      <div className="credits-page-container">
+        {AlbumCredits.map(item => {
+          return <AlbumCredCard key={item.id} {...item} />;
+        })}
+      </div>
+    </>
+  );
 }
 
 export default Credits

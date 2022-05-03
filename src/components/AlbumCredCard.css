@@ -1,0 +1,27 @@
+.album-container {
+    width: 80%;
+    display: flex;
+    border-radius: 20px;
+    background: black;
+    color: white;
+    padding: 2%;
+    margin: 1% 0;
+}
+
+.album-art {
+    width: 20%;
+    box-shadow: 0 0 20px white;
+}
+
+.album-info {
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.album-info h1 {
+    font-size: 3vw;
+}
+
+.album-info h2 {
+    font-size: 2vw;
+}
