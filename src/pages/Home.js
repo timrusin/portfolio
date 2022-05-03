@@ -14,6 +14,7 @@ let source = null
         src= {source}
         autoPlay
         playsInline
+        preload='auto'
         loop
         muted
         className="home-video"
