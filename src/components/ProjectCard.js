@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Modal from '../components/Modal'
 import './ProjectCard.css'
-// import { ModalFooter, Button, Modal, ModalHeader, ModalBody } from 'reactstrap';
 
 const ProjectCard = (props) => {
 const [modal, setModal] = useState (false)

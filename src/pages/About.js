@@ -8,7 +8,7 @@ import { FaLinkedin } from 'react-icons/fa'
 import { FaSoundcloud } from 'react-icons/fa'
 import { FaFacebook } from 'react-icons/fa'
 
-const About = () => {
+const About = ({setVideo}) => {
   const [audio, setAudio] = useState(false)
   const [software, setSoftware] = useState(true)
   const [educator, setEducator] = useState(false)
@@ -17,11 +17,14 @@ const About = () => {
     setAudio(true)
     setSoftware(false)
     setEducator(false)
+    setVideo('audio')
+    
   }
   const selectSoftware = () => {
     setSoftware(true)
     setAudio(false)
     setEducator(false)
+    setVideo('software')
   }
   const selectEducator = () => {
     setEducator(true)

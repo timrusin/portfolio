@@ -7,15 +7,15 @@ import Navbar from './components/Navbar'
 import Credits from './pages/Credits'
 
 const App = () => {
-
+  const [video, setVideo] = useState('software')
   return (
     <main>
    <Navbar className="nav" />
    <div id="home">
-     <Home />
+     <Home video = {video}/>
    </div>
    <div id="about">
-     <About />
+     <About setVideo = {setVideo}/>
    </div>
    <div id="projects">
      <Projects />
