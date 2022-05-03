@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import home_bg_dev from '../images/home_videobg_dev_med.mp4'
-import testVideo from '../images/test.mp4'
+import testVideo from '../images/home_videobg_audio.mp4'
 
 const Home = ({video}) => {
   console.log(video)
