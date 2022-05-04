@@ -48,6 +48,13 @@
 @media screen and (max-width:965px){
     .album-container {
         width: 95%;
+        padding: 2.5%;
+
+    }
+
+    .album-art {
+        width: 30%;
+        box-shadow: 0 0 10px white;
     }
     
     .album-artist {
