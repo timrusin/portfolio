@@ -14,7 +14,7 @@ const Navbar = () => {
           activeClass="active"
           to="home"
           spy={true}
-          smooth={true}
+          // smooth={true}
           offset={-100}
           duration={500}
           onClick={closeMenu}
