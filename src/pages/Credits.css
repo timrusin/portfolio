@@ -1,7 +1,29 @@
 .credits-page-container {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     background: rgb(36, 36, 36);
     border-bottom:rgb(48, 48, 48) 2px solid;
 } 
+
+.album-credits {
+    background: rgb(36, 36, 36);
+    color: white;
+    margin: 0;
+    padding-top: 40px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+@media screen and (max-width:965px){
+    .credits-page-container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .album-credits {
+        font-size: 5vw;
+    }
+}

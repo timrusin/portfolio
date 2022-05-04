@@ -2,16 +2,16 @@ import React from 'react'
 import './AlbumCredCard.css'
 
 const AlbumCredCard = (props) => {
-    console.log(props)
+  
   return (
     <div className="album-container">
       <img className="album-art" src={props.image} alt={props.alt}></img>
     <a href={props.link} target="new">
       <div className="album-info">
-        <h1>{props.artist}</h1>
-        <h6>{props.release}</h6>
-        <h2>{props.project}</h2>
-        <h3>Credit: {props.credit}</h3>
+        <div className='album-artist'>{props.artist}</div>
+        <div className='album-project'>{props.project}</div>
+        <div className='album-release'>{props.release}</div>
+        <div className='album-credit'>Credit: {props.credit}</div>
       </div>
     </a>
     </div>

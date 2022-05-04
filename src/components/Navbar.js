@@ -74,7 +74,7 @@ const Navbar = () => {
               to="credits"
               spy={true}
               smooth={true}
-              offset={0}
+              offset={-50}
               duration={500}
               onClick={closeMenu}
             >
