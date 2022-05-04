@@ -1,7 +1,7 @@
 export const AlbumCreditsData = [
 
     {
-        id: 59,
+        id: 58,
         image: "https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F1398601--F9981EF1-BFA8-4305-87E11B1D002DA5E8--0--16464058--OBGBluewTexture.png?fm=jpg&q=75&w=800&s=7e112397137aa575257a1a95b0dba3f3",
         alt: "On Borken Glass album art",
         artist: "Overcoast",
@@ -11,7 +11,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/20yrviqcoHeOqqhcvLsKS1?si=qn-CLYbZQ8WJKbYmvBoIrQ",
     },
     {
-        id: 58,
+        id: 57,
         image: "https://i1.sndcdn.com/artworks-DfZLa9UPZzqx-0-t500x500.jpg",
         alt: "Громко · Крепко · Честно album art",
         artist: "Garlic Kings",
@@ -21,7 +21,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/1DGBl3BkiG7LSmDJYeTMGD?si=tzvTCbVTR5K50JX7fSyWcw",
     },
     {
-        id: 57,
+        id: 56,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
         artist: "Eric Brumley",
@@ -31,7 +31,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/track/5zvODiCxXPiu5f0VTsFRvc?si=9fec14ab79d443b2",
     },
     {
-        id: 56,
+        id: 55,
         image: "https://xthoughtswordsactionx.files.wordpress.com/2022/01/a3702509748_10.jpg?w=900",
         alt: "Corrupt Politicians Will Never Set You Free album art",
         artist: "The Decayed",
@@ -41,7 +41,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/767ACn3yKBcf5dAjVJ3AEt?si=O9AQ6yb5SKykEq9Op-_d2w",
     },
     {
-        id: 55,
+        id: 54,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
         artist: "Eric Brumley",
@@ -51,7 +51,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/ericbrumleymusic/light-the-sky",
     },
     {
-        id: 54,
+        id: 53,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
         artist: "Eric Brumley",
@@ -61,7 +61,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/ericbrumleymusic/in-my-dreams",
     },
     {
-        id: 53,
+        id: 52,
         image: "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/e7/6a/f5/e76af588-50ea-0a87-fc2c-6c31d0145e49/artwork.jpg/500x500bb.webp",
         alt: "More Than Thought album art",
         artist: "Overcoast",
@@ -71,7 +71,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/us/album/more-than-thought-ep/1540392302",
     },
     {
-        id: 52,
+        id: 51,
         image: null,
         alt: null,
         artist: "Empire State Express",
@@ -81,7 +81,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 51,
+        id: 50,
         image: "https://f4.bcbits.com/img/a4112631146_16.jpg",
         alt: "Joyride album art",
         artist: "Ballroom Boxer",
@@ -91,7 +91,7 @@ export const AlbumCreditsData = [
         link: "https://ballroomboxer.bandcamp.com/album/joyride",
     },
     {
-        id: 50,
+        id: 49,
         image: "https://yt3.ggpht.com/7vl-Jk_E2O_BZzcornKMpQOZ0sSGvIfB97uETiTxnVpRElBc1Cmpv5qDIos-tPkT8VS39raf=s88-c-k-c0x00ffffff-no-rj",
         alt: "Modern Day Dam Malone artwork",
         artist: "Last False Hope",
@@ -101,7 +101,7 @@ export const AlbumCreditsData = [
         link: "https://www.youtube.com/watch?v=7CgPNQQDuTg",
     },
     {
-        id: 49,
+        id: 48,
         image: null,
         alt: null,
         artist: "Kaiju",
@@ -111,7 +111,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 48,
+        id: 47,
         image: null,
         alt: null,
         artist: "Kaiju",
@@ -121,7 +121,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 47,
+        id: 46,
         image: null,
         alt: null,
         artist: "Dual Transient",
@@ -131,7 +131,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 46,
+        id: 45,
         image: "https://f4.bcbits.com/img/a3724424865_16.jpg",
         alt: "Where We Are album art",
         artist: "6'10",
@@ -141,7 +141,7 @@ export const AlbumCreditsData = [
         link: "https://610music1.bandcamp.com/album/where-we-are-ep-out-now-2019",
     },
     {
-        id: 45,
+        id: 44,
         image: null,
         alt: null,
         artist: "Chicago Folks Operatta",
@@ -151,7 +151,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 44,
+        id: 43,
         image: "https://f4.bcbits.com/img/a0421375242_16.jpg",
         alt: "A Little Wild album art",
         artist: "Ballroom Boxer",
@@ -161,7 +161,7 @@ export const AlbumCreditsData = [
         link: "https://ballroomboxer.bandcamp.com/album/a-little-wild",
     },
     {
-        id: 43,
+        id: 42,
         image: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/42263760_407143713151899_1512448814613528576_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jIbyZyf0zMQAX_FamQi&_nc_ht=scontent-ort2-1.xx&oh=00_AT9znPsq1frLZarvz33RVTeN48yklmzr8ib3hrchOrZoRg&oe=62958A58",
         alt: "That's Enough album art",
         artist: "That's Enough",
@@ -171,7 +171,7 @@ export const AlbumCreditsData = [
         link: "https://soundcloud.com/thatsenough?fbclid=IwAR124K6Y8Xxhsj97mcylhfP3S_RYh5i27LAlOP8G_R0EaTqZUby-_mqayl8",
     },
     {
-        id: 42,
+        id: 41,
         image: null,
         alt: null,
         artist: "PSycHE",
@@ -181,7 +181,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 41,
+        id: 40,
         image: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ea/14/8b/ea148ba6-1d0f-8218-86c6-a539405761dd/5054526387409_1.jpg/500x500bb.webp",
         alt: "Ya'aburnee album art",
         artist: "Father Figures",
@@ -191,7 +191,7 @@ export const AlbumCreditsData = [
         link: "https://music.apple.com/jp/album/yaaburnee-ep/1199900886?l=en",
     },
     {
-        id: 40,
+        id: 39,
         image: "https://f4.bcbits.com/img/a2283018676_16.jpg",
         alt: "Crwon Makers Don'e Wear Crowns album art",
         artist: "A Random Drive",
@@ -201,7 +201,7 @@ export const AlbumCreditsData = [
         link: "https://arandomdrive.bandcamp.com/releases",
     },
     {
-        id: 39,
+        id: 38,
         image: "https://i.discogs.com/CkOr-c0Rkirc12yttJhFdZhvvpwS4kaLiguUNIBMpI4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MjUyLTE1MTQ1Mzc1/MzUtODQxNy5qcGVn.jpeg",
         alt: "Про любовь art",
         artist: "Garlic Kings",
@@ -211,7 +211,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/4flP80kLbtpbfnguXvyx9F?si=QlelRzFoRz2Ma2ZBG7Dnmw",
     },
     {
-        id: 38,
+        id: 37,
         image: "https://d10j3mvrs1suex.cloudfront.net/u/156801/c0bba82b5119dbe25b59f0c4f06342248eee1a19/square/album-cover.jpg/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
         alt: "Odd Boat album art",
         artist: "Flatfoot 56",
@@ -221,7 +221,7 @@ export const AlbumCreditsData = [
         link: "https://flatfoot56.com/odd-boat",
     },
     {
-        id: 37,
+        id: 36,
         image: "https://i.discogs.com/W1lxdIkTgaSc5s2fDZfD12Zo0a5TZKsrbAvNGn1Rs_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MjQyLTE1MTQ1Mzcz/MTEtMTI5MC5qcGVn.jpeg",
         alt: "Старые псы album art",
         artist: "Garlic Kings",
@@ -231,7 +231,7 @@ export const AlbumCreditsData = [
         link: "https://open.spotify.com/album/0W6XdcC4CEQB2zC9vx8GcB?si=mAm08W6oQhSfdZ8ufqW-eQ",
     },
     {
-        id: 36,
+        id: 35,
         image: "https://f4.bcbits.com/img/a1141192570_16.jpg",
         alt: "Tides album art",
         artist: "Ballroom Boxer",
@@ -241,7 +241,7 @@ export const AlbumCreditsData = [
         link: "https://youtu.be/fq74PKi41j4",
     },
     {
-        id: 35,
+        id: 34,
         image: "https://f4.bcbits.com/img/a1141192570_16.jpg",
         alt: "Tides album art",
         artist: "Ballroom Boxer",
@@ -251,7 +251,7 @@ export const AlbumCreditsData = [
         link: "https://ballroomboxer.bandcamp.com/album/tides-2",
     },
     {
-        id: 34,
+        id: 33,
         image: null,
         alt: null,
         artist: "Chicago Folks Operatta",
@@ -261,7 +261,7 @@ export const AlbumCreditsData = [
         link: null,
     },
     {
-        id: 33,
+        id: 32,
         image: "https://f4.bcbits.com/img/a0050833159_16.jpg",
         alt: "Questions and Problems album art",
         artist: "In Exile",
@@ -269,16 +269,6 @@ export const AlbumCreditsData = [
         credit: "Recording, Mixing, and Mastering",
         release: "2015",
         link: "https://inexilechicago.bandcamp.com/",
-    },
-    {
-        id: 32,
-        image: "https://f4.bcbits.com/img/a1874401416_16.jpg",
-        alt: "Humble Begginnings of a Roving Soul album art",
-        artist: "6'10",
-        project: "The Humble Beginnings of a Roving Soul",
-        credit: "Mixing",
-        release: "2014",
-        link: "https://610music1.bandcamp.com/album/the-humble-beginnings-of-a-rovin-soul-full-length-album-out-now-2014",
     },
     {
         id: 31,
@@ -290,6 +280,7 @@ export const AlbumCreditsData = [
         release: "2014",
         link: "https://610music1.bandcamp.com/album/the-humble-beginnings-of-a-rovin-soul-full-length-album-out-now-2014",
     },
+    
     {
         id: 30,
         image: "https://d10j3mvrs1suex.cloudfront.net/u/156801/f83de579be5a008391043763d8f2de14357499ee/large/flatfoot-56-toil.jpg/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
