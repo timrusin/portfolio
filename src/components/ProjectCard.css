@@ -48,6 +48,10 @@
     transition: color .5s;
 }
 
+.modal-button-hidden {
+    display: none;
+}
+
 .modal-button:hover {
     cursor: pointer;
     color: rgb(180, 180, 180);
@@ -86,7 +90,6 @@
 
     .modal-button {
         display: none;
-        font-size:0vw;
     }
 
 }
