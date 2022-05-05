@@ -142,8 +142,8 @@ export const AlbumCreditsData = [
     },
     {
         id: 45,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
-        alt: "No Image",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTs-AWM0TLUuYVNKMEdj7BOA8zF5YlmE-Og&usqp=CAU",
+        alt: "Chicago Folks",
         artist: "Chicago Folks Operatta",
         project: "Ball at the Savoy",
         credit: "Sound Design, Mixing, and Mastering",
@@ -252,8 +252,8 @@ export const AlbumCreditsData = [
     },
     {
         id: 34,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
-        alt: "No Image",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTs-AWM0TLUuYVNKMEdj7BOA8zF5YlmE-Og&usqp=CAU",
+        alt: "Chicago Folks",
         artist: "Chicago Folks Operatta",
         project: "Madame Pompadour",
         credit: "Mixing",
@@ -423,12 +423,12 @@ export const AlbumCreditsData = [
     },
     {
         id: 17,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
-        alt: "No Image",
+        image: "https://e.snmc.io/i/1200/s/3809fcecbaefa1340730acddefa4a358/1359226",
+        alt: "Kill Her While She's youn album art",
         artist: "Failed Resistance",
-        project: "Kill Her When She's Young",
+        project: "Kill Her While She's Young",
         credit: "Recording, Mixing, and Mastering",
-        release: "2004",
+        release: "2003",
         link: null,
     },
     {
