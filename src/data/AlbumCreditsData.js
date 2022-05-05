@@ -313,13 +313,13 @@ export const AlbumCreditsData = [
     },
     {
         id: 28,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
-        alt: "No Image",
+        image: "https://i.scdn.co/image/ab67616d00001e02e648b57f2d28029776912235",
+        alt: "The Frantic album art",
         artist: "The Frantic",
         project: "self titled EP",
         credit: "Mastering",
         release: "2011",
-        link: null,
+        link: "https://open.spotify.com/album/1lCPTBdCnJSmYv7KpUT5zg?si=OnyJIpycQyKRm7-7uWAtrg",
     },
     {
         id: 27,
@@ -373,13 +373,13 @@ export const AlbumCreditsData = [
     },
     {
         id: 22,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
-        alt: "No Image",
+        image: "https://i.scdn.co/image/ab67616d0000b2735d92f076169b0be2e3b322e5",
+        alt: "Maps to Chrysalis album art",
         artist: "Meqqa",
         project: "Maps to Chrysalis",
         credit: "Recording and Mixing",
         release: "2008",
-        link: null,
+        link: "https://open.spotify.com/album/3mmy2LDie9HD8lq1h63Ffr?si=Qob-5xc1SA6F6_UjWMYx8A",
     },
     {
         id: 21,
