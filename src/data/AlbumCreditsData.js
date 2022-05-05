@@ -72,7 +72,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 52,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Empire State Express",
         project: "Final Show - live",
@@ -102,7 +102,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 49,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Kaiju",
         project: "'Techno Ramm' single",
@@ -112,7 +112,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 48,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Kaiju",
         project: "'I like it, When It's Loud' single",
@@ -122,7 +122,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 47,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Dual Transient",
         project: "self titled",
@@ -142,7 +142,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 45,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Chicago Folks Operatta",
         project: "Ball at the Savoy",
@@ -172,7 +172,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 42,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "PSycHE",
         project: "PSycHE HaUs",
@@ -252,7 +252,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 34,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Chicago Folks Operatta",
         project: "Madame Pompadour",
@@ -293,7 +293,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 30,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Man Bird Belly",
         project: "self titled",
@@ -313,7 +313,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 28,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "The Frantic",
         project: "self titled EP",
@@ -373,7 +373,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 22,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Meqqa",
         project: "Maps to Chrysalis",
@@ -383,7 +383,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 21,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Surround Sound",
         project: "Somebody Say Something",
@@ -413,7 +413,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 18,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Lights Over Bridgeport",
         project: "Sound the Sirens",
@@ -423,7 +423,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 17,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Failed Resistance",
         project: "Kill Her When She's Young",
@@ -443,7 +443,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 15,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Gazing at Laces",
         project: "self titled EP",
@@ -453,7 +453,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 14,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Dials to Departure",
         project: "self titled EP",
@@ -463,7 +463,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 13,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Jason Eickmeir",
         project: "solo album",
@@ -473,7 +473,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 12,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "The Dead Racoons",
         project: "self titled EP",
@@ -483,7 +483,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 11,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Eric Harms",
         project: "self titled EP",
@@ -493,7 +493,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 10,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Panel 18",
         project: "self titled EP",
@@ -503,7 +503,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 9,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Inhuman",
         project: "self titled EP",
@@ -513,7 +513,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 8,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Drowning in Flame",
         project: "self titled EP",
@@ -523,7 +523,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 7,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Faultline",
         project: "self titled EP",
@@ -533,7 +533,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 6,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Not a Chance",
         project: "self titled EP",
@@ -543,7 +543,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 5,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "What Happened to Judy??",
         project: "self titled EP",
@@ -553,7 +553,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 4,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "So Far...",
         project: "demo",
@@ -563,7 +563,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 3,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Lights Over Bridgeport",
         project: "'Fall Without You' single",
@@ -583,7 +583,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 1,
-        image: "https://www.bengi.nl/wp-content/uploads/2014/10/no-image-available1.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Bite The Hand",
         project: "Land of the Fee",
