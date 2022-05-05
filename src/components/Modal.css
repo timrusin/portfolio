@@ -53,4 +53,8 @@
         font-size: 4vw;
     }
 
+    .modal-container {
+        height: auto;
+    }
+
 }
