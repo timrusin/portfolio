@@ -378,7 +378,7 @@ export const AlbumCreditsData = [
         artist: "Meqqa",
         project: "Maps to Chrysalis",
         credit: "Recording and Mixing",
-        release: "2008",
+        release: "2009",
         link: "https://open.spotify.com/album/3mmy2LDie9HD8lq1h63Ffr?si=Qob-5xc1SA6F6_UjWMYx8A",
     },
     {
