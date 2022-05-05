@@ -11,7 +11,7 @@ const AlbumCredCard = (props) => {
         <div className='album-artist'>{props.artist}</div>
         <div className='album-project'>{props.project}</div>
         <div className='album-release'>{props.release}</div>
-        <div className='album-credit'>Credit: {props.credit}</div>
+        <div className='album-credit'>{props.credit}</div>
       </div>
     </a>
     </div>
