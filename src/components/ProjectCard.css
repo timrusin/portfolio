@@ -41,6 +41,18 @@
     display: block;
 }
 
+.modal-button {
+    cursor: pointer;
+    font-size: .85vw;
+    color: red;
+    transition: color .5s;
+}
+
+.modal-button:hover {
+    cursor: pointer;
+    color: rgb(180, 180, 180);
+}
+
 
 @media screen and (max-width:965px){
 

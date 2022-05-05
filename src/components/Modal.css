@@ -1,8 +1,13 @@
 .modal-container {
+    height: 0;
+}
+
+.modal-container.active{
     height: auto;
     margin-bottom: 10px;
     animation-name: fadeIn; 
     animation-duration: 1.2s;
+    transition: all .5s ease;
 }
 
 .modal-description {
