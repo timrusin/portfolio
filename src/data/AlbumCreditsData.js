@@ -583,13 +583,13 @@ export const AlbumCreditsData = [
     },
     {
         id: 1,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
+        image: "https://drive.google.com/1K9_lqvoo3vbmYuIutifYSrHnJKWBut2A",
         alt: "No Image",
         artist: "Bite The Hand",
         project: "Land of the Fee",
         credit: "Recording and Mixing",
         release: "2002",
-        link: null,
+        link: "https://www.soundclick.com/artist/default.cfm?bandID=128489",
     },
 
 ]
