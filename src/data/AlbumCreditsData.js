@@ -68,7 +68,7 @@ export const AlbumCreditsData = [
         project: "More Than Thought",
         credit: "Mastering",
         release: "2020",
-        link: "https://music.apple.com/us/album/more-than-thought-ep/1540392302",
+        link: "https://open.spotify.com/album/2tZmBEOJjgHfBU0uZKt60l?si=0s7luowWSAiNCIZGpBiq3Q",
     },
     {
         id: 52,
@@ -188,7 +188,7 @@ export const AlbumCreditsData = [
         project: "Ya'aburnee",
         credit: "Mastering",
         release: "2018",
-        link: "https://music.apple.com/jp/album/yaaburnee-ep/1199900886?l=en",
+        link: "https://open.spotify.com/album/41jpizlmKD3OkdE2f6swuh?si=e6y04WbrQiqjV5B4gfL2_A",
     },
     {
         id: 40,
@@ -329,7 +329,7 @@ export const AlbumCreditsData = [
         project: "Looking Glass",
         credit: "Mastering",
         release: "2011",
-        link: "https://music.apple.com/us/album/looking-glass-ep/430624437",
+        link: "https://open.spotify.com/artist/5Pbh80khO24x4Vb34EOsAn?si=u9hxtNxHRbGQPDUg3VCVpw",
     },
     {
         id: 26,
@@ -359,7 +359,7 @@ export const AlbumCreditsData = [
         project: "Fornicate the Gutted",
         credit: "Recording, Mixing, and Mastering",
         release: "2019",
-        link: "https://music.apple.com/us/album/fornicate-the-gutted/325662139",
+        link: "https://open.spotify.com/album/5WVVsDBCMmLwvy324g8dvE?si=bvvIALpYTGm6mMCxi5rcYQ",
     },
     {
         id: 23,
@@ -409,7 +409,7 @@ export const AlbumCreditsData = [
         project: "Stare",
         credit: "Recording and Mixing",
         release: "2006",
-        link: "https://music.apple.com/us/artist/the-digital-kill/164358922",
+        link: "https://open.spotify.com/album/51Uygf67CHtxWznGpgSfju?si=6aCWTc2GSF65WNHDLfm8tQ",
     },
     {
         id: 18,
