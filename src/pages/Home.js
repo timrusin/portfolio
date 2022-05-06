@@ -1,7 +1,5 @@
 import React from 'react'
 import './Home.css'
-// import dev_bg from '../images/home_videobg_dev_med.mp4'
-// import audio_bg from '../images/home_videobg_audio2.mp4'
 import dev_bg_low from '../images/home_videobg_dev_low.mp4'
 import audio_bg_low from '../images/home_videobg_audio_low.mp4'
 
