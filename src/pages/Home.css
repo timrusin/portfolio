@@ -2,7 +2,7 @@
     background: rgb(32, 32, 32);
 }
 
-.home-video {
+.home-video-low {
     margin-top: -20%;
     width: 100%;
     height: 100%;
@@ -15,21 +15,8 @@
     -ms-animation: fadeIn 2s;
   }
 
-.home-video-low {
-    display: none;
-  }
-
   .hide-video {
-    margin-top: -20%;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    box-shadow: 0px 0px 10px white;
-    animation: fadeIn 2s;
-    -webkit-animation: fadeIn 2s;
-    -moz-animation: fadeIn 2s;
-    -o-animation: fadeIn 2s;
-    -ms-animation: fadeIn 2s;;
+    display: none;
   }
 
 
@@ -54,10 +41,6 @@
 }
 
 @media screen and (max-width: 965px) {
-    /* .home-video {
-        display: none;
-    } */
-
     .home-video-low {
       margin-top: -10%;
     }

@@ -26,7 +26,7 @@ console.log(video)
         className={video === 'audio' || video === 'educator' ? 'home-video' : 'hide-video'}
       /> */}
       <video
-        src= {audio_bg_low}
+        src= {dev_bg_low}
         autoPlay
         playsInline
         loop
@@ -34,7 +34,7 @@ console.log(video)
         className={video === 'software' ? 'home-video-low' : 'hide-video'}
       />
       <video
-        src= {dev_bg_low}
+        src= {audio_bg_low}
         autoPlay
         playsInline
         loop
