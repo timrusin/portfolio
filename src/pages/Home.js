@@ -42,10 +42,6 @@ console.log(video)
         className={video === 'audio' || video === 'educator' ? 'home-video-low' : 'hide-video'}
       />
     </div>
-
-
-
-
   );
 }
 
