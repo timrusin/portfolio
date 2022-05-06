@@ -9,22 +9,6 @@ const Home = ( {video} ) => {
 console.log(video)
   return (
     <div className="home-page-container">
-      {/* <video
-        src= {dev_bg}
-        autoPlay
-        playsInline
-        loop
-        muted
-        className={video === 'software' ? 'home-video' : 'hide-video'}
-      />
-      <video
-        src= {audio_bg}
-        autoPlay
-        playsInline
-        loop
-        muted
-        className={video === 'audio' || video === 'educator' ? 'home-video' : 'hide-video'}
-      /> */}
       <video
         src= {dev_bg_low}
         autoPlay
