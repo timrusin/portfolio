@@ -5,7 +5,6 @@ import { MdOutlineHttp } from 'react-icons/md'
 import './Modal.css'
 
 const Modal = ({description, git, link,  modal}) => {
-  console.log(modal)
   return (
     <div className={modal ? 'modal-container active' : 'modal-container'}>
       <p className="modal-description">{description}</p>
