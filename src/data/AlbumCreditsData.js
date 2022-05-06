@@ -43,7 +43,7 @@ export const AlbumCreditsData = [
     {
         id: 55,
         image: "https://i1.sndcdn.com/artworks-czaIsn9I9JHZu2dy-Fdz1xA-t240x240.jpg",
-        alt: "Light The SKy album art",
+        alt: "Light The Sky album art",
         artist: "Eric Brumley",
         project: "'Light The Sky' single",
         credit: "Mastering",
@@ -296,7 +296,7 @@ export const AlbumCreditsData = [
         image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
         alt: "No Image",
         artist: "Man Bird Belly",
-        project: "self titled",
+        project: "Blind Arrows",
         credit: "Mixing and Mastering",
         release: "2012",
         link: "https://soundcloud.com/manbirdbelly/albums",
