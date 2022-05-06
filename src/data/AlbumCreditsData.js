@@ -584,7 +584,7 @@ export const AlbumCreditsData = [
     {
         id: 1,
         image: "https://drive.google.com/uc?id=1K9_lqvoo3vbmYuIutifYSrHnJKWBut2A",
-        alt: "No Image",
+        alt: "Land of the Fee album art",
         artist: "Bite The Hand",
         project: "Land of the Fee",
         credit: "Recording and Mixing",
