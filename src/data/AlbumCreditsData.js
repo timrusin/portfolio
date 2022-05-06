@@ -293,7 +293,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 30,
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/No-album-art.png",
+        image: "https://drive.google.com/uc?id=1XxauRpy1rAUkXvdeKUtRHq1KlckKWNbC",
         alt: "No Image",
         artist: "Man Bird Belly",
         project: "Blind Arrows",
