@@ -16,7 +16,10 @@
     font-size: 1.5vw;
     text-align: center;
 }
-
+.jbtv {
+    font-size: 1.25vw;
+    padding-top: 0;
+}
 @media screen and (max-width:965px){
     .credits-page-container{
         flex-direction: column;
