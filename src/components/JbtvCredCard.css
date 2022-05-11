@@ -1,0 +1,9 @@
+.jbtv-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 80%;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 20px;
+}

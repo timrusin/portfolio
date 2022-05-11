@@ -2,6 +2,7 @@ import React from 'react'
 import AlbumCredCard from '../components/AlbumCredCard'
 import './Credits.css'
 import AlbumCredits from '../data/AlbumCreditsData'
+import JbtvCredCard from '../components/JbtvCredCard'
 
 
 const Credits = () => {
@@ -15,9 +16,7 @@ const Credits = () => {
       </div>
       <div className="album-credits">JBTV Credits</div>
       <div className="album-credits jbtv">
-        I worked with all of the following artists at JBTV on a personal level as a
-        recording, mixing, and mastering engineer for their live to tape TV
-        performances.
+        <JbtvCredCard/>
       </div>
     </>
   );

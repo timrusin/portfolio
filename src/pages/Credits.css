@@ -17,6 +17,8 @@
     text-align: center;
 }
 .jbtv {
+    display: flex;
+    justify-content: center;
     font-size: 1.25vw;
     padding-top: 0;
 }
