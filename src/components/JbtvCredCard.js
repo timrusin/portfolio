@@ -5,10 +5,8 @@ import JBTVCredits from '../data/JbtvCreditsData'
 const JbtvCredCard = () => {
   return (
     <div className='jbtv-container'>
-        {JBTVCredits.map( (item) => {
-            return (
-            <h1>{item.Artist}</h1>
-            )
+        {JBTVCredits.map((item) => {
+            return <h1>{item.Artist}</h1> 
         })}
     </div>
   )
