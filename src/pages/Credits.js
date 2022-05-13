@@ -2,7 +2,8 @@ import React from 'react'
 import AlbumCredCard from '../components/AlbumCredCard'
 import './Credits.css'
 import AlbumCredits from '../data/AlbumCreditsData'
-import JbtvCredCard from '../components/JbtvCredCard'
+import JBTVCredits from '../data/JbtvCreditsData'
+
 
 
 const Credits = () => {
@@ -15,8 +16,10 @@ const Credits = () => {
         })}
       </div>
       <div className="album-credits">JBTV Credits</div>
-      <div className="album-credits jbtv">
-        <JbtvCredCard/>
+      <div className="credits-page-container">
+        {JBTVCredits.map((item) => {
+          return <AlbumCredCard key={item.id}{...item} />
+        })}
       </div>
     </>
   );
