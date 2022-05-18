@@ -62,7 +62,7 @@
 #title a {
     text-decoration: none;
     color: #ffffff;
-    font-family: 'Cairo', san-serif;
+    font-family: 'Cairo', Arial;
 }
 
 #title a:hover {
