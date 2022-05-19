@@ -842,8 +842,8 @@ export const JbtvCreditsData = [
     },
     {
         id: 58,
-        image: "",
-        alt: "",
+        image: "https://www.nj.com/resizer/Sz4jkX3YWYCFQtXsBC27VNOq9ec=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.nj.com/home/njo-media/width2048/img/entertainment_impact_music/photo/steel-trainjpg-8fd44b24ec603ffa.jpg",
+        alt: "Steel Train",
         artist: "Steel Train - Jack Antonoff",
         release: 2010, 
         project: "Live to tape JBTV performance",
@@ -852,8 +852,8 @@ export const JbtvCreditsData = [
     },
     {
         id: 57,
-        image: "",
-        alt: "",
+        image: "http://illinoisentertainer.com/wp-content/uploads/2010/06/eus49-001-MF.jpg",
+        alt: "AM Taxi",
         artist: "AM Taxi",
         release: 2010, 
         project: "Live to tape JBTV performance",
@@ -862,8 +862,8 @@ export const JbtvCreditsData = [
     },
     {
         id: 56,
-        image: "",
-        alt: "",
+        image: "https://cdn.glidemagazine.com/wp-content/uploads/2010/07/31072934/silversunreview.jpg",
+        alt: "Silversun Pickups",
         artist: "Silversun Pickups",
         release: 2010, 
         project: "Live to tape JBTV performance",
