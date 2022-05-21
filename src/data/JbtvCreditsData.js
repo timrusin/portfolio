@@ -972,8 +972,8 @@ export const JbtvCreditsData = [
     },
     {
         id: 45,
-        image: "",
-        alt: "",
+        image: "https://www.billboard.com/wp-content/uploads/media/Company-of-Thieves-press-photo-by-Shervin-Lainez-2018-billboard-1548.jpg",
+        alt: "Company of Theives",
         artist: "Company of Theives",
         release: 2009, 
         project: "Live to tape JBTV performance",
@@ -982,8 +982,8 @@ export const JbtvCreditsData = [
     },
     {
         id: 44,
-        image: "",
-        alt: "",
+        image: "https://a2-images.myspacecdn.com/images03/2/2cfc772bc5e6418bb45c39e1167e1655/300x300.jpg",
+        alt: "Curumin",
         artist: "Curumin",
         release: 2009, 
         project: "Live to tape JBTV performance",
@@ -992,8 +992,8 @@ export const JbtvCreditsData = [
     },
     {
         id: 43,
-        image: "",
-        alt: "",
+        image: "https://i1.sndcdn.com/avatars-000006464377-3e1wr1-t500x500.jpg",
+        alt: "Electric Touch",
         artist: "Electric Touch",
         release: 2009, 
         project: "Live to tape JBTV performance",
