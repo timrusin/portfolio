@@ -83,7 +83,7 @@ const About = ({setVideo}) => {
           </p>
           <p>
             I spent eight years recording, mixing and mastering hundreds of live
-            performances that also got me three{" "}
+            performances that also got me multiple{" "}
             <span className="emphasize">Emmy Nominations.</span> I also spent a
             good amount of time gigging around town doing live sound.
           </p>
