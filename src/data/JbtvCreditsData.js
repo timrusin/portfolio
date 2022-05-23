@@ -1,7 +1,7 @@
 export const JbtvCreditsData = [
     {
         id: 143,
-        image: "http://2.bp.blogspot.com/_FyCrAfx3tI4/RpU81sV4nCI/AAAAAAAAALI/qt8IVFM6_88/s400/theRedwalls.jpg",
+        image: "https://obscuresound.com/wp-content/uploads/2007/04/robbers.jpg",
         alt: "Robers on High Street",
         artist: "Robers on High Street",
         release: 2012, 
@@ -251,7 +251,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 118,
-        image: "http://1.bp.blogspot.com/-CyTFDHfcqOs/UceI7OiWC1I/AAAAAAAACEs/g6JonxZhFuM/s1600/New+Found+Glory.png",
+        image: "https://static.wikia.nocookie.net/lessthanjake/images/8/87/New_Found_Glory.jpg/revision/latest?cb=20080829175539",
         alt: "New Found Glory",
         artist: "New Found Glory",
         release: 2011, 
@@ -371,7 +371,7 @@ export const JbtvCreditsData = [
     // },
     {
         id: 106,
-        image: "http://westernvinyl.com/images/artists/in-tall-buildings.jpg",
+        image: "https://f4.bcbits.com/img/0004337420_10.jpg",
         alt: "In Tall Buildings",
         artist: "In Tall Buildings",
         release: 2011, 
@@ -411,7 +411,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 102,
-        image: "http://1.bp.blogspot.com/_QJw38IiyNAE/Svl6i08aUzI/AAAAAAAAA8o/NNiv6kvZMLk/s320/fakeproblems.jpg",
+        image: "https://alchetron.com/cdn/fake-problems-7d97e586-5819-4fa3-9d8a-763c04f650a-resize-750.jpeg",
         alt: "Fake Problems",
         artist: "Fake Problems",
         release: 2011, 
@@ -641,7 +641,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 79,
-        image: "http://www.jimnewberry.com/wp-content/uploads/2012/03/scott_lucas_and_married_men.jpg",
+        image: "https://first-avenue.com/wp-content/uploads/2020/01/Scott_Lucas-photo-Jim_Newberry.jpg",
         alt: "Scott Lucas and the Married Men",
         artist: "Scott Lucas and the Married Men",
         release: 2010, 
@@ -681,7 +681,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 74,
-        image: "http://www.photoshelter.com/img-get/I0000CZLha1I9mCI/s/600",
+        image: "https://pbs.twimg.com/profile_images/1207629102/thefranticpromos050_edit_-_lores_400x400.jpg",
         alt: "The Frantic",
         artist: "The Frantic",
         release: 2010, 
@@ -731,7 +731,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 69,
-        image: "http://pics.livejournal.com/bandomguru/pic/0000fs8b",
+        image: "https://themaneater.com/wp-content/uploads/2021/07/MOVEempires-650x600.jpg",
         alt: "Empires",
         artist: "Empires",
         release: 2010, 
@@ -782,7 +782,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 64,
-        image: "http://www.vegasnews.com/wp-content/uploads/IMG_4927-Edit-588.jpg",
+        image: "https://townsquare.media/site/366/files/2019/06/Strung-Out.jpg?w=980&q=75",
         alt: "Strung Out",
         artist: "Strung Out",
         release: 2010, 
@@ -792,7 +792,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 63,
-        image: "http://www.everyview.com/wp-content/uploads/2009/10/i-fight-dragons.jpg",
+        image: "https://api.wbez.org/v2/images/bc25d7f0-4901-4dbd-91c7-fbee25149c76.jpg?width=900&height=675&mode=FILL",
         alt: "I Fight Dragons",
         artist: "I Fight Dragons",
         release: 2010, 
@@ -852,7 +852,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 57,
-        image: "http://illinoisentertainer.com/wp-content/uploads/2010/06/eus49-001-MF.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/AM_Taxi_2019.jpg",
         alt: "AM Taxi",
         artist: "AM Taxi",
         release: 2010, 
@@ -1012,7 +1012,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 41,
-        image: "http://illinoisentertainer.com/wp-content/uploads/2010/04/tonka.jpg",
+        image: "https://img.cincymusic.com/social/mobile/bands/532e19a646620.jpg",
         alt: "Ha Ha Tonka",
         artist: "Ha Ha Tonka",
         release: 2009, 
