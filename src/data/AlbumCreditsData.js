@@ -24,7 +24,7 @@ export const AlbumCreditsData = [
         id: 57,
         image: "https://i.scdn.co/image/ab67616d0000b273abc86e426d0aa8f75d2c7b11",
         alt: "Eric Brumley album art",
-        artist: "Hey Kid album art",
+        artist: "Eric Brumley",
         project: "'Hey Kid' single",
         credit: "Mastering",
         release: "2021",

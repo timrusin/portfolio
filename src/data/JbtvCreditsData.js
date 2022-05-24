@@ -333,7 +333,7 @@ export const JbtvCreditsData = [
         id: 110,
         image: "https://yt3.ggpht.com/ytc/AKedOLRFLqF2R3YrRWgn-XCw25_fb6ybrE82tyIIANP_cQ=s900-c-k-c0x00ffffff-no-rj",
         alt: "Fitz and the Tantrums",
-        artist: "Fitz and the Tanrtums",
+        artist: "Fitz and the Tantrums",
         release: 2011, 
         project: "Live to tape JBTV performance",
         credit:"Recording, mixing, and Mastering",
