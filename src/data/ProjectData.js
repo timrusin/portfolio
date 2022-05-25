@@ -48,7 +48,7 @@ const ProjectData = [
         alt: "Cstar311 Photography site",
         stack: "React.js, Node.js",
         git: "https://github.com/timrusin/cstar311" ,
-        link: "https://cstar311photography.herokuapp.com/",
+        link: "https://cstar311photography.netlify.app/",
     }
 ]
 
