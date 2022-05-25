@@ -8,7 +8,7 @@ import { FaFacebook } from 'react-icons/fa'
 const Contact = () => {
   return (
     <div className="contact-page-container">
-        <h1>Contact page is on it's way!</h1>
+        <h1>Contact page is on its way!</h1>
         <p>for now, you can reach me at timrusin@gmail.com</p>
         <div className="about-icons-container">
           <a href="https://github.com/timrusin" target="new">
