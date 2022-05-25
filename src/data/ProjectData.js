@@ -22,7 +22,7 @@ const ProjectData = [
 
     {
         title: "Air Pods",
-        description: "Air Pods was my first team project. We were assigned the name 'Team Air' and wanted to make a podcast search app, so we ran with the whole 'Air Pods' thing. There was a lot of struggle with accessing with we wanted from Sporify's public API, as well as trying to get user auth to work as planned. I really enjoyed working with my other team members on this project and although it was rough getting through it in the time allotted, we were overall pretty proud of what we accomplished together. FEEL FREE TO LOG IN WITH username:'user' and password:'password' to try it out.",
+        description: "Air Pods was my first team project. We were assigned the name 'Team Air' and wanted to make a podcast search app, so we ran with the whole 'Air Pods' thing. There was a lot of struggle with accessing what we wanted from Spotify's public API, as well as trying to get user auth to work as planned. I really enjoyed working with my other team members on this project and although it was rough getting through it in the time allotted, we were overall pretty proud of what we accomplished together. Feel free to log in using: username:'user' and password:'password' to try it out.",
         image: "https://drive.google.com/uc?id=1p2zFffbczNK-mRIxmHMg9xj8bZzRoFLC",
         alt: "Podcast app",
         stack: "MERN",

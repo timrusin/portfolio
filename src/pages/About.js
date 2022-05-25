@@ -116,7 +116,7 @@ const About = ({setVideo}) => {
             I loved teaching and thought I was in it for the long haul, but the
             universe makes interesting decisions for us sometimes. I would love
             to find myself in some sort of mentoring or teaching role again, but
-            for now I have become a student myself as I diver each day into the
+            for now I have become a student myself as I dive each day into the
             rich world of software development.
           </p>
         </div>
