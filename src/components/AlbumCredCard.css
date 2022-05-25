@@ -33,6 +33,11 @@
     font-size: 2vw;
 }
 
+.sub-title {
+    font-size: 1vw;
+    font-style: italic;
+}
+
 .album-release {
     font-size: 1vw;
 }

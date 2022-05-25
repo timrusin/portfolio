@@ -9,6 +9,7 @@ const AlbumCredCard = (props) => {
     <a href={props.link} target="new">
       <div className="album-info">
         <div className='album-artist'>{props.artist}</div>
+        <div className='sub-title'>{props.subtitle}</div>
         <div className='album-project'>{props.project}</div>
         <div className='album-release'>{props.release}</div>
         <div className='album-credit'>{props.credit}</div>
