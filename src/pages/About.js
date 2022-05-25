@@ -89,7 +89,7 @@ const About = ({setVideo}) => {
           </p>
           <p>
             This all then led me to a full-time faculty position at Flashpoint
-            College in Chicago teaching recording arts. (check out the{" "}
+            College in Chicago teaching recording arts (check out the{" "}
             <span className="bio-secret-btn" onClick={selectEducator}>
               EDUCATOR
             </span>{" "}
