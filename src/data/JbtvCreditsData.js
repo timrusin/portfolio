@@ -1071,7 +1071,7 @@ export const JbtvCreditsData = [
         image: "https://photos.bandsintown.com/large/8306993.jpeg",
         alt: "The Dandy Warhols",
         artist: "The Dandy Warhols",
-        subtitile: "Emmy nominiated",
+        subtitle: "Emmy nominiated",
         release: 2008, 
         project: "Live to tape JBTV performance",
         credit:"Recording, mixing, and Mastering",
