@@ -53,6 +53,10 @@
 }
 
 @media screen and (max-width:965px){
+    .input-field {
+        margin-bottom: 8%;
+    }
+    
     .input {
         border-radius: 10px;
         font-size: 4vw;
@@ -60,5 +64,13 @@
 
     .contact-button {
         font-size: 3vw;
+    }
+
+    .thank-you {
+        font-size: 4vw;
+    }
+
+    .talk-soon {
+        font-size: 3.5vw;
     }
 }

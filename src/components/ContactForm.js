@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import "./ContactForm.css"
 
-const FORM_ENDPOINT = "https://public.herotofu.com/v1/ef4a2090-dd44-11ec-8be6-4f814e368566"
+const FORM_ENDPOINT = "https://submit-form.com/48S3pn6x"
 
 const ContactForm = () => {
     const [submitted, setSubmitted] = useState(false)
