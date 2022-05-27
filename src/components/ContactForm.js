@@ -23,7 +23,7 @@ const ContactForm = () => {
         <div className="input-field">
           <input
             type="text"
-            placeholder="And you are...?"
+            placeholder="Your Name"
             name="name"
             className="input name"
             required
@@ -40,7 +40,7 @@ const ContactForm = () => {
         </div>
         <div className="input-field">
           <textarea
-            placeholder="What's up?"
+            placeholder="Message"
             name="message"
             className="input message"
             required
