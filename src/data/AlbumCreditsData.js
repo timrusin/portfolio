@@ -92,8 +92,8 @@ export const AlbumCreditsData = [
     },
     {
         id: 50,
-        image: "https://yt3.ggpht.com/7vl-Jk_E2O_BZzcornKMpQOZ0sSGvIfB97uETiTxnVpRElBc1Cmpv5qDIos-tPkT8VS39raf=s88-c-k-c0x00ffffff-no-rj",
-        alt: "Modern Day Dam Malone artwork",
+        image: "https://i.scdn.co/image/ab67616d00001e02101955e6e515c25cf8f15d9b",
+        alt: "Modern Day Sam Malone artwork",
         artist: "Last False Hope",
         project: "'Modern Day Sam Malone' single",
         credit: "Mixing and Mastering",
