@@ -1243,7 +1243,7 @@ export const JbtvCreditsData = [
         image: "https://i.ytimg.com/vi/E27TWAVVza8/maxresdefault.jpg",
         alt: "Kill Hannah live at Metro Chicago",
         artist: "Kill Hannah",
-        subtitle: "Live at The Metro Chicago",
+        subtitle: "Live at Metro Chicago",
         release: 2007, 
         project: "Live to tape JBTV performance",
         credit:"Recording, mixing, and Mastering",
