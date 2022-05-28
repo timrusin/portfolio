@@ -34,7 +34,7 @@ const Navbar = () => {
               activeClass="active"
               to="home"
               spy={true}
-              // smooth={true}
+              smooth={true}
               offset={-100}
               duration={500}
               onClick={closeMenu}
@@ -47,7 +47,7 @@ const Navbar = () => {
               activeClass="active"
               to="about"
               spy={true}
-              // smooth={true}
+              smooth={true}
               offset={-80}
               duration={500}
               onClick={closeMenu}
@@ -60,7 +60,7 @@ const Navbar = () => {
               activeClass="active"
               to="projects"
               spy={true}
-              // smooth={true}
+              smooth={true}
               offset={-55}
               duration={500}
               onClick={closeMenu}
@@ -73,7 +73,7 @@ const Navbar = () => {
               activeClass="active"
               to="credits"
               spy={true}
-              // smooth={true}
+              smooth={true}
               offset={-55}
               duration={500}
               onClick={closeMenu}
@@ -86,7 +86,7 @@ const Navbar = () => {
               activeClass="active"
               to="contact"
               spy={true}
-              // smooth={true}
+              smooth={true}
               offset={-80}
               duration={500}
               onClick={closeMenu}
