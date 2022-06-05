@@ -11,7 +11,7 @@
 }
 
 .p-card-bg:hover {
-    width: 150%;
+    width: 160%;
 }
 
 .p-card-title {
@@ -70,6 +70,10 @@
         flex-direction: row;
         flex-wrap: wrap;
         margin: 10px 0;
+    }
+
+    .p-card-bg:hover {
+        width: 100%;
     }
 
     .p-card-title {
