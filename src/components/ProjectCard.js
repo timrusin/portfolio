@@ -8,7 +8,7 @@ const closeModal = () => setModal(false)
 const openModal = () => setModal(true)
 
   return (
-    <div className="p-card-bg">
+    <div onMouseLeave={closeModal} className="p-card-bg">
       <div className="p-card-title">{props.title}</div>
       <div className={modal ? 'modal-button' : 'modal-button-hidden'} onClick={closeModal}>CLOSE</div>
       <div className={modal ? "modal-showing" : "modal-hidden"}><Modal {...props} modal={modal}/></div>
