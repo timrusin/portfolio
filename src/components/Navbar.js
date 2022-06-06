@@ -61,7 +61,7 @@ const Navbar = () => {
               to="projects"
               spy={true}
               smooth={true}
-              offset={-55}
+              offset={-60}
               duration={500}
               onClick={closeMenu}
             >
@@ -74,7 +74,7 @@ const Navbar = () => {
               to="credits"
               spy={true}
               smooth={true}
-              offset={-55}
+              offset={-60}
               duration={500}
               onClick={closeMenu}
             >
