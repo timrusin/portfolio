@@ -127,6 +127,7 @@
     .modal-button {
         display: none;
     }
+    
     .smaller {
     animation-name: fadeIn; 
     animation-duration: 0s;
