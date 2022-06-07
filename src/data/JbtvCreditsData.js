@@ -1130,7 +1130,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 30,
-        image: "https://r7k2t3x9.rocketcdn.me/wp-content/uploads/2021/01/img-14640.jpg",
+        image: "https://chicago.gopride.com/c/I/19292-57881.jpg",
         alt: "Greg Laswell",
         artist: "Greg Laswell",
         release: 2008, 

@@ -72,7 +72,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 52,
-        image: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.18169-9/17553432_1478715315495857_663839290556785582_n.jpg?_nc_cat=106&ccb=1-6&_nc_sid=9267fe&_nc_ohc=x0YD9iIXRJQAX__i9Kl&_nc_ht=scontent-ort2-1.xx&oh=00_AT-GRMK0pqccq_CGhEMhWHb-vFh1PbAJP7wR1htT1x_clg&oe=629C8BCF",
+        image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/586776/original/crop:x0y0w800h536/hash:1466607389/Group_0105_Cropped_1281215484.jpg?1466607389",
         alt: "Empire State Express album art",
         artist: "Empire State Express",
         project: "Final Show - live",
@@ -162,7 +162,7 @@ export const AlbumCreditsData = [
     },
     {
         id: 43,
-        image: "https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/42263760_407143713151899_1512448814613528576_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jIbyZyf0zMQAX_FamQi&_nc_ht=scontent-ort2-1.xx&oh=00_AT9znPsq1frLZarvz33RVTeN48yklmzr8ib3hrchOrZoRg&oe=62958A58",
+        image: "https://drive.google.com/uc?id=1sGOBFObUrsgypM_DdOcctUW8GWT_nsTA",
         alt: "That's Enough album art",
         artist: "That's Enough",
         project: "self titled EP",
