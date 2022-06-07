@@ -4,7 +4,6 @@
     color: white;
     padding: 2% 20px 15% 20px;
     display: flex;
-    flex-direction: row;
     background: rgb(36, 36, 36);
     border-bottom:rgb(48, 48, 48) 2px solid;
 }

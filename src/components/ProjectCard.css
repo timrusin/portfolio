@@ -1,16 +1,15 @@
 .p-card-bg {
     background: rgb(36, 36, 36);
+    margin: 0 .5%;
     border-radius: 20px;
     text-align: center;
     width: 100%;
     transition: width 300ms;
     font-size: 1em;
     cursor: pointer;
+    transition: width 400ms;
 }
 
-/* .p-card-bg:hover {  
-    width: 110%;
-} */
 
 .p-card-title {
     color: rgb(187, 187, 187);
@@ -80,6 +79,7 @@
 }
 
 .bigger {
+    transition: width 200ms;
     width: 165%;
 }
 
@@ -88,11 +88,11 @@
     .p-card-bg {
         background: black;
         box-shadow: 0px 0px 10px white;
-        margin: 0 .5%;
         width: 100%;
         flex-direction: row;
         flex-wrap: wrap;
         margin: 10px 0;
+        filter: opacity(1)
     }
 
     .p-card-bg:hover {
