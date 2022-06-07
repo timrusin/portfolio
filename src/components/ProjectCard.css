@@ -7,9 +7,9 @@
     font-size: 1em;
 }
 
-.p-card-bg:hover {  
-    width: 150%;
-}
+/* .p-card-bg:hover {  
+    width: 110%;
+} */
 
 .p-card-title {
     color: rgb(187, 187, 187);
@@ -72,10 +72,14 @@
 }
 
 .smaller {
-    width: 50%;
+    width: 40%;
     margin: 5% 0%;
     animation-name: fadeIn; 
     animation-duration: 3s;
+}
+
+.bigger {
+    width: 165%;
 }
 
 @media screen and (max-width:965px){

@@ -17,7 +17,7 @@ const unFocus = () => {
 // const openModal = () => setModal(true)
 
   return (
-    <div onMouseEnter ={focus} onMouseLeave={unFocus} className="p-card-bg">
+    <div onClick={focus} onMouseLeave={unFocus} className= {active ? "p-card-bg bigger" : "p-card-bg"}>
       <div className={active ? "p-card-title" : "title-hidden"}>{props.title}</div>
       {/* <div className={modal ? 'modal-button' : 'modal-button-hidden'} onClick={closeModal}>CLOSE</div> */}
       <div className={modal ? "modal-showing" : "modal-hidden"}><Modal {...props} modal={modal}/></div>
