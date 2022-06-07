@@ -7,9 +7,8 @@
     transition: width 300ms;
     font-size: 1em;
     cursor: pointer;
-    transition: width 400ms;
+    transition: width 400ms;    
 }
-
 
 .p-card-title {
     color: rgb(187, 187, 187);
@@ -24,6 +23,11 @@
 .p-card-image {
     width: 100%;
     padding-top: 5%;   
+    transition: filter 200ms;
+}
+
+.p-card-image:hover {
+    filter: brightness(1.2);
 }
 
 .p-card-stack {
