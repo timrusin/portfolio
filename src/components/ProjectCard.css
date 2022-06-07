@@ -96,7 +96,6 @@
         flex-direction: row;
         flex-wrap: wrap;
         margin: 10px 0;
-        filter: opacity(1)
     }
 
     .p-card-bg:hover {
@@ -125,7 +124,8 @@
 
     .p-card-image {
         width: 50%;
-        padding-top: 5%;    
+        padding-top: 5%;  
+        filter: brightness(1);
     }
 
     .modal-hidden {
