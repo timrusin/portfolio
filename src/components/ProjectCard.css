@@ -1,37 +1,41 @@
 .p-card-bg {
     background: #000;
-    padding: 0 20px;
+    padding: 1%;
     border-radius: 20px;
     margin: 0 1%;
     box-shadow: 0px 0px 10px white;
     text-align: center;
-    width: 100%;
+    width: 80%;
     height: 80%;
     transition: width 400ms;
     font-size: 1em;
 }
 
 .p-card-bg:hover {  
-    width: 160%;
+    width: 150%;
 }
 
 .p-card-title {
     color: rgb(187, 187, 187);
     text-align: center;
-    margin-top: 5%;
+    margin-top: 1%;
     font-size: 1.25vw;
     font-family: 'Noto Serif', serif;
+    animation-name: fadeIn; 
+    animation-duration: 1s;
 }
 
 .p-card-image {
     width: 100%;
-    padding-top: 5%;    
+    padding-top: 5%;   
 }
 
 .p-card-stack {
     font-size: .75vw;
     color: rgb(187, 187, 187);
     text-align: center;
+    animation-name: fadeIn; 
+    animation-duration: 2s;
 }
 
 .p-card-bg a {
@@ -63,6 +67,20 @@
     color: rgb(180, 180, 180);
 }
 
+.title-hidden {
+    display: none;
+}
+
+.stack-hidden {
+    display: none;
+}
+
+.smaller {
+    width: 50%;
+    margin: 5% 0%;
+    animation-name: fadeIn; 
+    animation-duration: 3s;
+}
 
 @media screen and (max-width:965px){
 
@@ -78,19 +96,27 @@
     }
 
     .p-card-title {
-        margin-top: 5%;
+        display: block;
+        color: rgb(187, 187, 187);
+        text-align: center;
+        margin-top: 1%;
         font-size: 6vw;
         font-family: 'Noto Serif', serif;
+        animation-name: fadeIn; 
+        animation-duration: 0s;
     }
     
     .p-card-stack {
-        font-size: 3vw;
+        display: block;
+        font-size: 3.5vw;
         color: rgb(187, 187, 187);
         text-align: center;
+        animation-name: fadeIn; 
+        animation-duration: 0s;
     }
 
     .p-card-image {
-        width: 575;
+        width: 50%;
         padding-top: 5%;    
     }
 
@@ -100,6 +126,30 @@
 
     .modal-button {
         display: none;
+    }
+    .smaller {
+    animation-name: fadeIn; 
+    animation-duration: 0s;
+    }
+
+    .title-hidden {
+        display: block;
+        color: rgb(187, 187, 187);
+        text-align: center;
+        margin-top: 1%;
+        font-size: 6vw;
+        font-family: 'Noto Serif', serif;
+        animation-name: fadeIn; 
+        animation-duration: 0s;
+    }
+
+    .stack-hidden {
+        display: block;
+        font-size: 3vw;
+        color: rgb(187, 187, 187);
+        text-align: center;
+        animation-name: fadeIn; 
+        animation-duration: 0s;
     }
 
 }

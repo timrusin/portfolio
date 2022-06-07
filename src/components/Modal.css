@@ -6,12 +6,11 @@
     height: auto;
     margin-bottom: 10px;
     animation-name: fadeIn; 
-    animation-duration: 1.2s;
-    transition: all .5s ease;
+    animation-duration: 3s;
 }
 
 .modal-description {
-    text-align: left;
+    text-align: center;
     font-size: .8vw;
     line-height: 1.15;
     margin: 2% 0;
@@ -20,7 +19,7 @@
 .modal-links-container {
     display: flex;
     flex-direction: column;
-    align-items: baseline;
+    align-items: center;
     padding-top: 5px;
 }
 
@@ -47,6 +46,13 @@
         flex-direction: column;
         align-items: center;
         padding-top: 5px;
+    }
+
+    .modal-container.active{
+        height: auto;
+        margin-bottom: 10px;
+        animation-name: fadeIn; 
+        animation-duration: 0s;
     }
    
     .link-titles {
