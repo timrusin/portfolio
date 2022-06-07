@@ -1,13 +1,9 @@
 .p-card-bg {
-    background: #000;
-    padding: .25%;
+    background: rgb(36, 36, 36);
     border-radius: 20px;
-    margin: 0 1%;
-    box-shadow: 0px 0px 10px white;
     text-align: center;
-    width: 80%;
-    height: 80%;
-    transition: width 400ms;
+    width: 100%;
+    transition: width 300ms;
     font-size: 1em;
 }
 
@@ -85,6 +81,9 @@
 @media screen and (max-width:965px){
 
     .p-card-bg {
+        background: black;
+        box-shadow: 0px 0px 10px white;
+        margin: 0 .5%;
         width: 100%;
         flex-direction: row;
         flex-wrap: wrap;

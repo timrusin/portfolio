@@ -40,7 +40,6 @@ const ProjectData = [
         git: "https://github.com/timrusin/Selena-Bus",
         link: "https://github.com/timrusin/Selena-Bus",
     },
-    
     {
         title: "Cstar311 Photography",
         description: "This is my first project that I have started on (aside from the website you're on right now) once I graduated from school. This will be a landing site for my father in law's professional photography.  This is when I really started feeling more comfortable and confident in React.js.",
