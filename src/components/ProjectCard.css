@@ -125,7 +125,14 @@
     .p-card-image {
         width: 50%;
         padding: 5% 0;  
+    }
+
+    .p-card-image:hover {
         filter: brightness(1);
+    }
+
+    .smaller {
+        width: 50%;
     }
 
     .modal-hidden {
@@ -154,7 +161,7 @@
 
     .stack-hidden {
         display: block;
-        font-size: 3vw;
+        font-size: 3.5vw;
         color: rgb(187, 187, 187);
         text-align: center;
         animation-name: fadeIn; 
