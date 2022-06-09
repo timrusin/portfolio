@@ -26,6 +26,7 @@
     object-fit: cover;
     object-position: top;
     border: 1px white solid; 
+    border-radius: 20px;
     transition: filter 200ms;
 }
 
