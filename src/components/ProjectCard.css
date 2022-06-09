@@ -25,7 +25,6 @@
     height: 80%;
     object-fit: cover;
     object-position: top;
-    border-radius: 20px;
     border: 1px white solid;
     padding-top: 5%;   
     transition: filter 200ms;
