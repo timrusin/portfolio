@@ -131,6 +131,7 @@
         width: 50%;
         padding: 5% 0;  
         border: none;
+        border-radius: 0;
     }
 
     .p-card-image:hover {
