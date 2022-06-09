@@ -57,33 +57,6 @@ const ProjectData = [
         stack: "HTML, CSS, Quick Response Code",
         git: "https://github.com/timrusin/MotoHeaters" ,
         link: "https://motoheaters.netlify.app/",
-    },
-     {
-        title: "Moto Heaters",
-        description: "Motorola Mobility has an amazing roof deck on top of their Chicago office and I was asked to create a QR code and instruction landing page for their new elecrtric cabana heaters.  This was a very simple, yet very fun and effective real-world project that I'm proud to add to my portfolio. This project was designed for, and looks it's best on a mobile device",
-        image: "https://drive.google.com/uc?id=1Aac0LqvHWcvOX__Iwd0peGTotSrO2Xns",
-        alt: "Moto Heaters",
-        stack: "HTML, CSS, Quick Response Code",
-        git: "https://github.com/timrusin/MotoHeaters" ,
-        link: "https://motoheaters.netlify.app/",
-    },
-     {
-        title: "Moto Heaters",
-        description: "Motorola Mobility has an amazing roof deck on top of their Chicago office and I was asked to create a QR code and instruction landing page for their new elecrtric cabana heaters.  This was a very simple, yet very fun and effective real-world project that I'm proud to add to my portfolio. This project was designed for, and looks it's best on a mobile device",
-        image: "https://drive.google.com/uc?id=1Aac0LqvHWcvOX__Iwd0peGTotSrO2Xns",
-        alt: "Moto Heaters",
-        stack: "HTML, CSS, Quick Response Code",
-        git: "https://github.com/timrusin/MotoHeaters" ,
-        link: "https://motoheaters.netlify.app/",
-    },
-     {
-        title: "Moto Heaters",
-        description: "Motorola Mobility has an amazing roof deck on top of their Chicago office and I was asked to create a QR code and instruction landing page for their new elecrtric cabana heaters.  This was a very simple, yet very fun and effective real-world project that I'm proud to add to my portfolio. This project was designed for, and looks it's best on a mobile device",
-        image: "https://drive.google.com/uc?id=1Aac0LqvHWcvOX__Iwd0peGTotSrO2Xns",
-        alt: "Moto Heaters",
-        stack: "HTML, CSS, Quick Response Code",
-        git: "https://github.com/timrusin/MotoHeaters" ,
-        link: "https://motoheaters.netlify.app/",
     }
 ]
 
