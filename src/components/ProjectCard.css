@@ -10,6 +10,10 @@
     transition: width 400ms;    
 }
 
+.p-card-bg:hover {
+    box-shadow: 0 0 10px white;
+}
+
 .p-card-title {
     color: rgb(187, 187, 187);
     text-align: center;
