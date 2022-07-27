@@ -304,7 +304,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 113,
-        image: "https://newnoisemagazine.com/wp-content/uploads/2018/09/The-Smoking-Popes-band-2018.jpg",
+        image: "https://media.npr.org/music/sotd/2009/03/popes300-da1c8d1830608a96faf77c78316431a668af11e2-s1100-c50.jpg",
         alt: "Smoking Popes",
         artist: "Smoking Popes",
         release: 2011, 
@@ -918,7 +918,7 @@ export const JbtvCreditsData = [
     // },
     {
         id: 51,
-        image: "https://parade.com/wp-content/uploads/2020/04/plain_white_ts_4-19-18_673.jpg",
+        image: "https://static.onecms.io/wp-content/uploads/sites/6/2018/08/pwt-press-photo-colin-lane-1-2000.jpg",
         alt: "The Plain White T's",
         artist: "The Plain White T's",
         release: 2010, 
