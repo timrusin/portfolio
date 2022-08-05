@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import "./About.css"
 import AudioPhoto from '../images/Tim _Bio_edited.jpg'
-import EduImage from '../images/live_sound_class.jpg'
+import EduImage from '../images/teaching.JPG'
 import SoftwareImage from '../images/coding_placeholder.png'
 import { FaGithub } from 'react-icons/fa'
 import { FaLinkedin } from 'react-icons/fa'
