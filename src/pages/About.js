@@ -18,7 +18,6 @@ const About = ({setVideo}) => {
     setSoftware(false)
     setEducator(false)
     setVideo('audio')
-    
   }
   const selectSoftware = () => {
     setSoftware(true)
