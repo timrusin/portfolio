@@ -105,8 +105,7 @@
 
 .menu-dashes {
     margin: -20px 0 -20px 0;
-    z-index: 10;
-    transition: all 300ms;
+    transition: all 50ms;
 }
 
 .menu-dashes-angle1{
