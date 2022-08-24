@@ -114,7 +114,7 @@
     top: -15px;
     right: 0px;
     margin: -20px 0 -20px 0;
-    transition: all 300ms;
+    transition: all 500ms;
 }
 
 .menu-dashes-angle2{
@@ -122,7 +122,7 @@
     transform: rotate(-45deg);
     top: -15px;
     right: 0px;
-    transition: all 300ms;
+    transition: all 500ms;
     margin: -20px 0 -20px 0;
     filter: opacity(.6);
 }
@@ -157,7 +157,7 @@
     left: 0px;
     border-bottom: black 1px solid;
     border-bottom: rgba(255, 255, 255, 0.49) 4px solid;
-    transition: height 0.5s ease;
+    transition: height 500ms ease;
 
   }
 
