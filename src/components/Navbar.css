@@ -110,7 +110,7 @@
 
 .menu-dashes-angle1{
     position: absolute;
-    transform: rotate(45deg);
+    transform: rotate(225deg);
     top: -15px;
     right: 0px;
     margin: -20px 0 -20px 0;
@@ -119,7 +119,7 @@
 
 .menu-dashes-angle2{
     position: absolute;
-    transform: rotate(-45deg);
+    transform: rotate(-225deg);
     top: -15px;
     right: 0px;
     transition: all 500ms;
