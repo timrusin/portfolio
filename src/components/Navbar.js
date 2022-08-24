@@ -28,7 +28,6 @@ const Navbar = () => {
           <i className={click ? "fas fa-dash menu-dashes-angle1" : "fas fa-dash menu-dashes"}/>
           <i className={click ? "fas fa-dash menu-dashes-angle2" : "fas fa-dash menu-dashes"}/>
           <i className={click ? "fas fa-dash menu-dashes-angle2" : "fas fa-dash menu-dashes"}/>
-          {/* <i className={click ? "fas fa-times" : "fas fa-bars"} /> */}
         </div>
         <div className={click ? "nav-menu active" : "nav-menu"}>
           <nav className="nav-links">
