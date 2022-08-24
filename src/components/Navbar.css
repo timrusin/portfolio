@@ -93,12 +93,39 @@
 }
 
 .menu-icon {
-    display: block;
+    display: flex;
+    flex-direction: column;
     position: absolute;
     color: rgba(255, 255, 255, 0.517);
-    right: 20px;
+    top: 54px;
+    right: 15px;
     font-size: 1.8rem;
     cursor: pointer;
+}
+
+.menu-dashes {
+    margin: -20px 0 -20px 0;
+    z-index: 10;
+    transition: all 300ms;
+}
+
+.menu-dashes-angle1{
+    position: absolute;
+    transform: rotate(45deg);
+    top: -15px;
+    right: 0px;
+    margin: -20px 0 -20px 0;
+    transition: all 300ms;
+}
+
+.menu-dashes-angle2{
+    position: absolute;
+    transform: rotate(-45deg);
+    top: -15px;
+    right: 0px;
+    transition: all 300ms;
+    margin: -20px 0 -20px 0;
+    filter: opacity(.6);
 }
 
 #title h1 {
