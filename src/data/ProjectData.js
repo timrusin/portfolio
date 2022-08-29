@@ -16,8 +16,8 @@ const ProjectData = [
         image: 'https://drive.google.com/uc?id=1YapFEIMsfdlond0m836upOEAtq1Xr_15',
         alt: "Star Wars for Dummies app",
         stack: "React.js, Node.js, API",
-        git: "https://github.com/timrusin/StarWarsForDummies",
-        link: "https://starwarsfordummies.netlify.app/",
+        git: "https://github.com/timrusin/starwarsfordummiesrefactored",
+        link: "https://starwarsfordummiesv2.netlify.app/",
     },
 
     {
