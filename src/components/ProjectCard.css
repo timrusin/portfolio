@@ -49,6 +49,7 @@
 
 .modal-hidden {
     display: none;
+    transition: all 3sec;
 }
 
 .modal-showing {
