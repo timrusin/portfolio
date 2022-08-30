@@ -55,22 +55,6 @@
     display: block;
 }
 
-.modal-button {
-    cursor: pointer;
-    font-size: .85vw;
-    color: red;
-    transition: color .5s;
-}
-
-.modal-button-hidden {
-    display: none;
-}
-
-.modal-button:hover {
-    cursor: pointer;
-    color: rgb(180, 180, 180);
-}
-
 .title-hidden {
     display: none;
 }
@@ -145,10 +129,6 @@
         display: block;
     }
 
-    .modal-button {
-        display: none;
-    }
-    
     .smaller {
     animation-name: fadeIn; 
     animation-duration: 0s;
