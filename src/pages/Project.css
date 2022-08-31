@@ -18,6 +18,26 @@
     text-align: center;
 }
 
+#proj-btn-container{
+    display: flex;
+    justify-content: center;
+    background: rgb(36, 36, 36);
+    padding-top: 1%;
+}
+
+.proj-btns{
+    background: none;
+    border: none;
+    color: white;
+    margin: 0 2%;
+    filter: brightness(.5);
+    transition: filter 400ms;
+}
+
+.proj-btns:hover{
+    filter: brightness(1);
+}
+
 @media screen and (max-width:965px){
     .project-page-container{
         flex-direction: column;
