@@ -1090,7 +1090,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 34,
-        image: "https://fortemag.com.au/wp-content/uploads/2014/09/The-Kin.jpg",
+        image: "https://music.allaccess.com/wp-content/uploads/2017/02/the-kin1.jpg",
         alt: "The Kin",
         artist: "The Kin",
         release: 2008, 
