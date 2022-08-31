@@ -40,19 +40,19 @@ const About = ({setVideo}) => {
             onClick={selectSoftware}
             className={software ? "bio-btn-active bio-btn" : "bio-btn"}
           >
-            Software
+            SOFTWARE
           </button>
           <button
             onClick={selectAudio}
             className={audio ? "bio-btn-active bio-btn" : "bio-btn"}
           >
-            Audio
+            AUDIO
           </button>
           <button
             onClick={selectEducator}
             className={educator ? "bio-btn-active bio-btn" : "bio-btn"}
           >
-            Educator
+            EDUCATOR
           </button>
         </div>
         <div className={software ? "show" : "hide"}>
