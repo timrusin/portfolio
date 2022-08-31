@@ -8,6 +8,7 @@ const ProjectData = [
         stack: "HTML, JavaScript, CSS",
         git: "https://github.com/timrusin/HideAndSeek",
         link: "https://timrusin.github.io/HideAndSeek/",
+        category: "game",
     },
 
     {
@@ -18,6 +19,7 @@ const ProjectData = [
         stack: "React.js, Node.js, API",
         git: "https://github.com/timrusin/starwarsfordummiesrefactored",
         link: "https://starwarsfordummiesv2.netlify.app/",
+        category: "application",
     },
 
     {
@@ -28,6 +30,7 @@ const ProjectData = [
         stack: "MERN",
         git: "https://github.com/timrusin/airpods_frontend" ,
         link: "https://teamairapp.herokuapp.com/",
+        category: "application",
     },
 
     
@@ -39,6 +42,7 @@ const ProjectData = [
         stack: "MERN (React-Native)",
         git: "https://github.com/timrusin/Selena-Bus",
         link: "https://github.com/timrusin/Selena-Bus",
+        category: "game",
     },
     {
         title: "Cstar311 Photography",
@@ -48,6 +52,7 @@ const ProjectData = [
         stack: "React.js, Node.js",
         git: "https://github.com/timrusin/cstar311" ,
         link: "https://cstar311photography.netlify.app/",
+        category: "website",
     },
     {
         title: "Moto Heaters",
@@ -57,6 +62,17 @@ const ProjectData = [
         stack: "HTML, CSS, Quick Response Code",
         git: "https://github.com/timrusin/MotoHeaters" ,
         link: "https://motoheaters.netlify.app/",
+        category: "website",
+    },
+    {
+        title: "Double Down Auto Detailing",
+        description: "Auto detailing service website for a long-time old friend of mine. Site is being built as we speak (you read).  I've implemented some really cool CSS tricks to lean into the casino type branding he is looking for.",
+        image: "https://drive.google.com/uc?id=1_Ky1Xb5e8o5DnFt9jPReayHk6m5ue5sH",
+        alt: "Double Down",
+        stack: "React.js, Node.JS",
+        git: "https://github.com/timrusin/doubledown" ,
+        link: "https://doubledownautodetail.com/",
+        category: "website",
     }
 ]
 
