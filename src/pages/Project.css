@@ -27,16 +27,24 @@
 
 .proj-btns{
     background: none;
-    border: none;
+    margin: 1%;
     color: white;
-    margin: 0 2%;
+    font-size: 1.5vw;
+    font-weight: bold;
+    border: none;
     filter: brightness(.5);
-    transition: filter 400ms;
+    cursor: pointer;
+    transition: filter 300ms
 }
 
 .proj-btns:hover{
+    filter: brightness(.75);
+}
+
+.proj-btns-active{
     filter: brightness(1);
 }
+
 
 @media screen and (max-width:965px){
     .project-page-container{
