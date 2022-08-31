@@ -63,6 +63,16 @@ const ProjectData = [
         git: "https://github.com/timrusin/MotoHeaters" ,
         link: "https://motoheaters.netlify.app/",
         category: "website",
+    },
+    {
+        title: "Double Down Auto Detailing",
+        description: "Auto detailing service website for a long-time old friend of mine. Site is being built as we speak (you read).  I've implemented some really cool CSS tricks to lean into the casino type branding he is looking for.",
+        image: "https://drive.google.com/uc?id=1_Ky1Xb5e8o5DnFt9jPReayHk6m5ue5sH",
+        alt: "Double Down",
+        stack: "React.js, Node.JS",
+        git: "https://github.com/timrusin/doubledown" ,
+        link: "https://doubledownautodetail.com/",
+        category: "website",
     }
 ]
 
