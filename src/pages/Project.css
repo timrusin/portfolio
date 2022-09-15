@@ -2,7 +2,7 @@
 
 .project-page-container {
     color: white;
-    padding: 2% 20px 5% 20px;
+    padding: 0 20px 5% 20px;
     display: flex;
     justify-content: center;
     background: rgb(36, 36, 36);
@@ -19,11 +19,11 @@
     text-align: center;
 }
 
-#proj-btn-container{
+.proj-btn-container{
     display: flex;
     justify-content: center;
     background: rgb(36, 36, 36);
-    padding-top: 1%;
+    padding-top: 0;
 }
 
 .proj-btns{

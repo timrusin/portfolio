@@ -19,7 +19,7 @@ const Credits = () => {
   return (
     <>
       <div className="album-credits">Album Credits</div>
-      <div id="proj-btn-container">
+      <div className="proj-btn-container">
         <button className={selection === 'Recording' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Recording')}>Recording</button>
         <button className={selection === 'Mixing' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Mixing')}>Mixing</button>
         <button className={selection === 'Mastering' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Mastering')}>Mastering</button>

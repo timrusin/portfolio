@@ -14,8 +14,8 @@ const Projects = () => {
   return (
     <>
     <h1 className="projects-title">SOFTWARE PROJECTS</h1>
-      <div id="proj-btn-container">
-        <button className={selection === 'website' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('website')}>Web Sites</button>
+      <div className="proj-btn-container">
+        <button className={selection === 'website' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('website')}>Websites</button>
         <button className={selection === 'game' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('game')}>Game Dev</button>
         <button className={selection === 'application' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('application')}>Applications</button>
       </div>
