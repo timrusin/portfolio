@@ -14,10 +14,6 @@
     padding-top: 40px;
     font-family: 'Cairo', sans-serif;
     font-size: 3vw;
-<<<<<<< HEAD
-
-=======
->>>>>>> dc7d16b (brought over all of the feature branch changes for credit categories that I lost when I merged my main into my feaature by mistake)
     text-align: center;
 }
 .jbtv {
@@ -57,13 +53,8 @@
     }
 
     .proj-btns{
-<<<<<<< HEAD
         font-size: 3vw;
         margin: 1% 2% 4% 0;
 
-=======
-        font-size: 3.5vw;
-        margin: 10px .5% 10px .5%;
->>>>>>> dc7d16b (brought over all of the feature branch changes for credit categories that I lost when I merged my main into my feaature by mistake)
     }
 }
