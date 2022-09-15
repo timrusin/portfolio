@@ -307,7 +307,7 @@ export const AlbumCreditsData = [
         alt: "Siamese Dream album art",
         artist: "The Smashing Pumpkins",
         project: "Siamese Dream (re-release)",
-        credit: "Live DVD digital re mastering",
+        credit: "Live DVD Mastering", 
         release: "2011",
         link: "https://www.amazon.com/Siamese-Dream-Deluxe-Smashing-Pumpkins/dp/B0064Z8WQO",
     },

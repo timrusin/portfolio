@@ -48,12 +48,16 @@
         align-items: center;
     }
 
+    .proj-btn-container{
+        justify-content: center;
+    }
+
     .album-credits {
         font-size: 5.5vw;
     }
 
     .proj-btns{
-        font-size: 3.5vw;
+        font-size: 3vw;
         margin: 10px .05% 10px .05%;
     }
 }
