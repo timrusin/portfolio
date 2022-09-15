@@ -60,4 +60,7 @@
         font-size: 3vw;
         margin: 10px .05% 10px .05%;
     }
+    .proj-btns:hover{
+        filter: brightness(1);
+    }
 }

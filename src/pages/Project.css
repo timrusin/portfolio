@@ -58,4 +58,8 @@
     .proj-btns{
         font-size: 3vw;
     }
+
+    .proj-btns:hover{
+        filter: brightness(1);
+    }
 }

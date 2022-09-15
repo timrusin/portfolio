@@ -151,8 +151,11 @@
     }
 
     .bio-btn {
-        font-size: 3vw;
+        font-size: 3vw;   
     }
-    
+
+    .bio-btn:hover{
+        filter:brightness(1); 
+    }
 }
 
