@@ -54,7 +54,6 @@
 
     .proj-btns{
         font-size: 3vw;
-        margin: 1% 2% 4% 0;
-
+        margin: 10px .25% 4% 10px;
     }
 }
