@@ -7,11 +7,27 @@ import JBTVCredits from '../data/JbtvCreditsData'
 
 
 const Credits = () => {
+
+  const [selection, setSelection] = React.useState("Recording")
+  const selected = []
+
+  AlbumCredits.map(item => {
+    return item.credit.includes(selection) && selected.push(item) 
+  })
+
+
   return (
     <>
       <div className="album-credits">Album Credits</div>
+      <div className="proj-btn-container">
+        <button className={selection === 'Recording' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Recording')}>Recording</button>
+        <button className={selection === 'Mixing' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Mixing')}>Mixing</button>
+        <button className={selection === 'Mastering' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Mastering')}>Mastering</button>
+        <button className={selection === 'Live' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Live')}>Live</button>
+        <button className={selection === 'Sound Design' ? "proj-btns proj-btns-active" : "proj-btns"} onClick={()=> setSelection('Sound')}>Sound Design</button>
+      </div>
       <div className="credits-page-container">
-        {AlbumCredits.map((item) => {
+        {selected.map((item) => {
           return <AlbumCredCard key={item.id} {...item} />;
         })}
       </div>
