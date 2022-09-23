@@ -73,6 +73,17 @@ const ProjectData = [
         git: "https://github.com/timrusin/doubledown" ,
         link: "https://doubledownautodetail.com/",
         category: "website",
+    },
+
+    {
+        title: "weesqueepictures",
+        description: "Killian Heilsberg is an amazing human being who I was lucky enough to get to work with for nearly ten years while teaching at Flashpoint College Chicago.  I am happy to be working with Killian again, now on her protfolio site for her film productions and claymation works",
+        image: "/assets/images/weesquee.png",
+        alt: "weesqueepictures",
+        stack: "React.js, Node.JS",
+        git: "https://github.com/timrusin/weesqueepictures" ,
+        link: "https://weesqueepictures.netlify.app/",
+        category: "website",
     }
 ]
 
