@@ -82,7 +82,7 @@ const ProjectData = [
         alt: "weesqueepictures",
         stack: "React.js, Node.JS",
         git: "https://github.com/timrusin/weesqueepictures" ,
-        link: "https://weesqueepictures.netlify.app/",
+        link: "https://weesqueepictures.com/",
         category: "website",
     }
 ]
