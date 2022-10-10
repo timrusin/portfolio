@@ -45,7 +45,6 @@
     filter: brightness(1);
 }
 
-
 @media screen and (max-width:965px){
     .project-page-container{
         flex-direction: column;
