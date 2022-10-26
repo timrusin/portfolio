@@ -56,7 +56,7 @@ const ProjectData = [
 //     },
      {
         title: "JPEG Shay Photography",
-        description: "Shailley Downes professional photogrpahy webiste",
+        description: "Shailley Downes professional photography website",
         image: "/assets/images/jpegshay.JPG",
         alt: "JPEG Shay Photography site",
         stack: "React.js, Node.js",
