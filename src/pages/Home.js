@@ -4,7 +4,6 @@ import dev_bg_low from '../images/home_videobg_dev_low.mp4'
 import audio_bg_low from '../images/home_videobg_audio_low.mp4'
 
 const Home = ( {video} ) => {
-console.log(video)
   return (
     <div className="home-page-container">
       <video
