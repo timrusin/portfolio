@@ -806,7 +806,7 @@ export const JbtvCreditsData = [
     },
     {
         id: 62,
-        image: "https://cdn.baeblemusic.com/bandcontent/circa_survive/circa_survive_bio.jpg",
+        image: "https://s1.ticketm.net/dam/a/35c/5067e3ae-9355-4470-95cf-837eb94d235c_1469541_TABLET_LANDSCAPE_LARGE_16_9.jpg",
         alt: "Circa Survive",
         artist: "Circa Survive",
         release: 2010, 
