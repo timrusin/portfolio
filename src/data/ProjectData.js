@@ -10,6 +10,16 @@ const ProjectData = [
         link: "https://timrusin.github.io/HideAndSeek/",
         category: "game",
     },
+    {
+        title: "React Black Jack",
+        description: "Black Jack game built in React.js with extensive CSS for styling of cards and game play. Still working out a few bugs, but game is operational.",
+        image: '/assets/images/reactblackjack.png',
+        alt: "Black Jack Game",
+        stack: "React, JSX, CSS",
+        git: "https://github.com/timrusin/reactblackjack",
+        link: "https://reactblack.netlify.app/",
+        category: "game",
+    },
 
     {
         title: "Star Wars for Dummies",
