@@ -13,5 +13,5 @@ I am very proud of this site and look forward to building it out more for scalab
 
 Please drop in and feel free to say hello to me via the contact page.
 
-
+https://timrusin.com
 
