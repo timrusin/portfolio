@@ -1,5 +1,15 @@
 export const AlbumCreditsData = [
-
+    
+    {
+        id: 60,
+        image: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/294896846_135708745817122_4487126064901018627_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6-eTQ94u2foAX9SHROl&tn=NGXuGU5wRJMu9J36&_nc_ht=scontent-ord5-2.xx&oh=00_AfD-PbCghkSs_nZQzy1-XJj_KTWqXpf0VIUg5BhjLcY-Dg&oe=63A2B8A0",
+        alt: "Help Hounds Band",
+        artist: "Help Hounds",
+        project: "The Knockoning Single",
+        credit: "Mastering",
+        release: "2022",
+        link: "https://open.spotify.com/album/1VW3chRTSbdiG21h44ou1C?si=v-69hH0sRKSqeIu94uRnDg",
+    },
     {
         id: 59,
         image: "https://distrokid.imgix.net/http%3A%2F%2Fgather.fandalism.com%2F1398601--F9981EF1-BFA8-4305-87E11B1D002DA5E8--0--16464058--OBGBluewTexture.png?fm=jpg&q=75&w=800&s=7e112397137aa575257a1a95b0dba3f3",
