@@ -12,7 +12,7 @@ const Home = ( {video} ) => {
         playsInline
         loop
         muted
-        className={video === 'software' ? 'home-video-low' : 'hide-video'}
+        className={video === 'software' ? 'home-video-low-dev fade-in' : 'hide-video'}
       />
       <video
         src= {audio_bg_low}
@@ -20,7 +20,7 @@ const Home = ( {video} ) => {
         playsInline
         loop
         muted
-        className={video === 'audio' || video === 'educator' ? 'home-video-low' : 'hide-video'}
+        className={video === 'audio' || video === 'educator' ? 'home-video-low-audio fade-in' : 'hide-video'}
       />
     </div>
   );

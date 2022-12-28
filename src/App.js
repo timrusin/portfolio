@@ -5,6 +5,7 @@ import Contact from './pages/Contact'
 import About from './pages/About'
 import Navbar from './components/Navbar'
 import Credits from './pages/Credits'
+import './App.css'
 
 const App = () => {
   const [video, setVideo] = useState('software')

@@ -16,7 +16,7 @@ const unFocus = () => {
 }
 
   return (
-    <div onMouseEnter={focus} onMouseLeave={unFocus} className= {active ? "p-card-bg open" : "p-card-bg"}>
+    <div onMouseEnter={focus} onMouseLeave={unFocus} className= {active ? "p-card-bg open" : "p-card-bg fade-in"}>
       <div className={active ? "p-card-title" : "title-hidden"}>{props.title}</div>
       <div className={modal ? "modal-showing" : "modal-hidden"}><Modal {...props} modal={modal}/></div>
       <div className= {active ? "p-card-stack" : "stack-hidden"}>Tech Stack: {props.stack}</div>
