@@ -1,13 +1,17 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tim Rusin",
+  "name": "Tim Rusin portfolio site",
   "icons": [
     {
+      "src": "R_favicon.ico",
+      "sizes": "2000x1959",
+      "type": "image/x-icon"
+    },
+    {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "64x64",
       "type": "image/x-icon"
     }
- 
   ],
   "start_url": ".",
   "display": "standalone",
