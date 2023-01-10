@@ -1,16 +1,18 @@
 {
   "short_name": "Tim Rusin",
   "name": "Tim Rusin portfolio site",
+  "description": "The ongoing portfolio site for audio engineer and software/web developer, Tim Rusin.  Learn about Tim, his past software/web projects and album credits.",
   "icons": [
     {
       "src": "R_favicon.ico",
-      "sizes": "2000x1959",
+      "sizes": "192x192",
       "type": "image/x-icon"
     },
     {
-      "src": "favicon.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
+      "src": "Rusin.png",
+      "sizes": "512x512",
+      "type": "png",
+      "purpose": "any"
     }
   ],
   "start_url": ".",
