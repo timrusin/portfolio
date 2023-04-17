@@ -2,7 +2,7 @@ export const AlbumCreditsData = [
     
     {
         id: 60,
-        image: "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/294896846_135708745817122_4487126064901018627_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c_CfmS_rZysAX-MATJz&tn=NGXuGU5wRJMu9J36&_nc_ht=scontent-ord5-2.xx&oh=00_AfAHmF-M6j0t3yoFM9D5Uq8fAjUGpoNZv9JouapT5jPmAQ&oe=63B09060",
+        image: "https://f4.bcbits.com/img/0030041662_10.jpg",
         alt: "Help Hounds Band",
         artist: "Help Hounds",
         project: "The Knockoning Single",
